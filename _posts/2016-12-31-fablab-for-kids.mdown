@@ -1,0 +1,16 @@
+---
+layout: centrale
+title:  "Fablab for Kids"
+date:   2016-12-31 10:00:00 -0600
+categories: appuntamenti evidenza
+immagine: https://gallery.mailchimp.com/bbd5781f8c72a1885774d98c0/images/53e22cf1-4d8a-4a9a-aa40-0bb26b363ecc.png
+quando: tutti i sabato mattina
+dove: Fablab Torino
+costo: 
+durata: 
+curadi:
+per info: n.cognome@fablabtorino.org
+iscrizione: http://digifabturing.tumblr.com/post/157482416469/informed-matter-workshops-series
+---
+Fablab for Kids è una piattaforma educativa per avvicinare i ragazzi dai 5 ai 14 anni alle tecnologie e alle competenze del futuro, con un approccio pratico e divertente all'apprendimento.
+I laboratori si svolgono presso il Fablab Torino, scuole ed eventi.

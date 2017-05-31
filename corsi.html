@@ -1,0 +1,77 @@
+---
+layout: default
+title: Fablab Torino, corsi
+---
+
+<div class="container">
+	<div class="row corsi">
+
+
+			<div class="col-md-4">
+				<h1>Workshops</h1>
+				{% for post in site.categories.workshop%} 
+					<div class="media">
+					  <div class="media-left">
+					    <a href="#">
+					      <img src="{{ post.immagine }}" width="150px">
+					    </a>
+					  </div>
+					  <div class="media-body">
+					    <h4>{{ post.title }}</h4>
+						<p>
+						{{ post.excerpt }}
+						</p>
+						<p><a class="btn btn-info btn-xs" href="{{ post.url }}" role="button">Info e iscrizioni</a></p>
+					  </div>
+					  <hr>
+					</div>
+				{% endfor %}
+			</div>
+
+			<div class="col-md-4">
+				<h1>Corsi base</h1>
+				<p>Tutti i corsi base sono gratuiti per gli iscritti e hanno come obiettivo quello di renderti indipendente
+				nell'utilizzo di qualsiasi macchina.</p>
+
+				{% for post in site.categories.corsibase%} 
+					<div class="media">
+					  <div class="media-left">
+					    <a href="#">
+					      <img src="{{ post.immagine }}" width="150px">
+					    </a>
+					  </div>
+					  <div class="media-body">
+					    <h4>{{ post.title }}</h4>
+						<p>
+						{{ post.excerpt }}
+						</p>
+						<p><a class="btn btn-info btn-xs" href="{{ post.url }}" role="button">Info e iscrizioni</a></p>
+					  </div>
+					  <hr>
+					</div>
+				{% endfor %}
+			</div>			
+			<div class="col-md-4">
+				<h1>Fablab for Kids</h1>
+				<button type="button" class="btn btn-info btn-xs btn-block">www.fablabforkids.it</button>
+				{% for post in site.categories.fablabforkids%} 
+					<div class="media">
+					  <div class="media-left">
+					    <a href="#">
+					      <img src="{{ post.immagine }}" width="150px">
+					    </a>
+					  </div>
+					  <div class="media-body">
+					    <h4>{{ post.title }}</h4>
+						<p>
+						{{ post.excerpt }}
+						</p>
+					  </div>
+					  <hr>
+					</div>
+				{% endfor %}
+			</div>					
+
+		
+	</div>
+</div>

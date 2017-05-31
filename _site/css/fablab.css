@@ -1,0 +1,47 @@
+  *{
+    font-family: 'Open Sans', sans-serif;
+  }
+
+	.navbar-brand {
+	  padding: 0px;
+	  margin-bottom: 10px;
+	}
+	.navbar-brand>img {
+	  height: 130%;
+	  padding: 15px;
+	  width: auto;
+	}
+
+	.footer{
+		background-color: red;
+	}
+
+	.direttivo{
+		font-size: smaller;
+	}
+
+	.sfondofablab {
+		background-color: #0199b1;
+	}
+
+	 .sfondofablab img{
+	 	width: 130px;
+		margin-bottom: 20px;
+		margin-top: 20px;
+		color: white;
+
+	}
+
+	.navbar-default .navbar-nav>li>a {
+		color: white;
+	}
+
+	.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
