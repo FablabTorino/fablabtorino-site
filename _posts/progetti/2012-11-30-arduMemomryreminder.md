@@ -1,239 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-        <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Fablab Torino</title>
-    <meta name="description" content="Fablab Torino">
+---
+layout: centrale
+title:  "Ardu Memmory Reminder"
+date:   2012-11-30
+published: true
+permalink: ../ardu-memory-reminder/
+categories: progetti
+tags: [arduino, educational]
+sito:
+autori: Giuseppe Graziani
+copertina: ArduMemory1.jpg
+---
+Ardu Memory Reminder
+Ultima Release del firmware: in aggiornamento  per l’ hardware R.1.0
 
-    <link href="/fablabtorino-site/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/fablabtorino-site/css/fablab.css" rel="stylesheet">
+Ultimo aggiornamento del progetto R.1 : 30/11/2012
 
-    
+_______________________________________________________
 
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,700,800" rel="stylesheet">
-  </head>
+Ultima Release del firmware: Rev.0.5I per l’ hardware R.0.0
 
-  <body>
+Ultimo aggiornamento del progetto R.0 : 24/11/2012
 
-    <!-- Static navbar -->
-    <nav class="navbar navbar-default navbar-static-top sfondofablab"> 
-      <div class="container">
-        <div class="row" align="center">
-          <a href="/fablabtorino-site/">
-          <img src="/fablabtorino-site/img/logoquadrato-bianco.png">
-          </a>
-        </div>
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <!--
-          <a class="navbar-brand" href="#">Fablab Torino</a>
-          -->
-          <a class="navbar-brand" href="index.html">
-              <!--
-               <img src="img/logosmall.png" alt="">
-               -->
-           </a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li class="dropdown">
-              <a href="/fablabtorino-site/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Fablab Torino<span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <!--
-                <li><a href="/fablabtorino-site/chisiamo/">Chi siamo</a></li>
-                -->
-                <li><a href="/fablabtorino-site/associazione/">Associazione</a></li>
-                <li><a href="/fablabtorino-site/iscriviti/">Iscriviti</a></li>
-                <li><a href="/fablabtorino-site/contatti-faq/">Contatti e FAQ</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="/fablabtorino-site/laboratorio/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Laboratorio<span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li class="dropdown-header">SPAZI</li>
-                  <li><a href="/fablabtorino-site/tagliolaser/">Mega scrivania</a></li>
-                  <li><a href="/fablabtorino-site/stampanti3d/">Banco di elettronica</a></li>
-                  <li><a href="/fablabtorino-site/fresacnc/">Banco di lavoro</a></li>                
-                  <li><a href="/fablabtorino-site/fresacnc/">Aula Workshop</a></li>                
-                  <li><a href="/fablabtorino-site/fresacnc/">Fablab Pro</a></li>                
-                <li class="dropdown-header">MACCHINARI</li>
-                  <li><a href="/fablabtorino-site/tagliolaser/">Taglio Laser</a></li>
-                  <li><a href="/fablabtorino-site/stampanti3d/">Stampanti 3D</a></li>
-                  <li><a href="/fablabtorino-site/fresacnc/">Fresa CNC</a></li>
-              </ul>
-            </li>  
-            <li class="dropdown">
-              <a href="/fablabtorino-site/communities/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Communities<span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="/fablabtorino-site/audiohacklab/">AudioHacklab</a></li>
-                <li><a href="/fablabtorino-site/3dusergroup/">3D Printer user group</a></li>
-                <li><a href="/fablabtorino-site/aug/">Arduino User Group</a></li>
-                <li><a href="/fablabtorino-site/digifabturing/">DigiFABturing</a></li>
-              </ul>
-            </li> 
-            <li><a href="/fablabtorino-site/progetti/">Progetti</a></li>                      
-            <li><a href="/fablabtorino-site/corsi/">Corsi</a></li>
-            <li><a href="/fablabtorino-site/eventi/">Eventi</a></li>           
-            <!--
-            <li><a href="/fablabtorino-site/blog/">Blog</a></li>
-            -->
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
-    </nav>
-
-    <main>
-          <div class="container">
-      <div class="row">
-        <h1>Progetti</h1>
-         
-          <div class="col-md-4">
-              <div class="media">
-                <div class="media-left">
-                  <a href="#">
-                    <img src="http://placehold.it/300x300" width="100px">
-                  </a>
-                </div>
-                <div class="media-body">
-                  <h4><a href="/spassouno">SpassoUno</a></h4>
-                  <p>
-                  <p>Uno speciale tavolo da riprese per creare cortometraggi animati con la tecnica dell’animazione stop-motion.</p>
-
-                  </p>
-                  
-                </div>
-              </div>
-              <hr>
-          </div>
-         
-          <div class="col-md-4">
-              <div class="media">
-                <div class="media-left">
-                  <a href="#">
-                    <img src="http://www.self-o-matic.com/img/rendering_muro.jpg" width="100px">
-                  </a>
-                </div>
-                <div class="media-body">
-                  <h4><a href="/selfomatic">Selfomatic</a></h4>
-                  <p>
-                  <p>Premi il pulsante: Self-O-Matic scatta la fotografia e aggiorna in diretta l’album dei tuoi social: facebook, twitter, altri servizi web.</p>
+_______________________________________________________
 
 
-                  </p>
-                  
-                </div>
-              </div>
-              <hr>
-          </div>
-         
-          <div class="col-md-4">
-              <div class="media">
-                <div class="media-left">
-                  <a href="#">
-                    <img src="http://robottino.cc/img/robottino-stardust-600x600.jpg" width="100px">
-                  </a>
-                </div>
-                <div class="media-body">
-                  <h4><a href="/robottino">Robottino</a></h4>
-                  <p>
-                  <p>Robottino è un robot programmabile la scheda Arduino sulla schiena consente di personalizzare i comportamenti e le intereazioni.</p>
 
-                  </p>
-                  
-                </div>
-              </div>
-              <hr>
-          </div>
-         
-          <div class="col-md-4">
-              <div class="media">
-                <div class="media-left">
-                  <a href="#">
-                    <img src="https://camo.githubusercontent.com/70f7c5aad322821207a96ae4ce4bfd3b7388260d/687474703a2f2f63646e2e696e73747275637461626c65732e636f6d2f464f582f4d48594a2f49455834583449302f464f584d48594a49455834583449302e4d454449554d2e6a7067" width="100px">
-                  </a>
-                </div>
-                <div class="media-body">
-                  <h4><a href="/pcbot">PcBot</a></h4>
-                  <p>
-                  <p>PCBot is a internet connected printer that helps you with electronics. You can chat with it and ask to print a breaboard circuit layout or ask for other assistance in building your electronic project.</p>
+Progetto ITALIANO basato su Arduino Uno.
+
+Ideato e creato da Giuseppe G., sviluppato in collaborazione con la comunità di arduino “vedi Partecipanti al progetto”
+
+Il progetto base, prevede la costruzione di un device di semplice comprensione ed utilizzo, al fine di aiutare le persone bisognose a ricordare le assunzioni delle medicine giornaliere.
 
 
-                  </p>
-                  
-                </div>
-              </div>
-              <hr>
-          </div>
-         
-          <div class="col-md-4">
-              <div class="media">
-                <div class="media-left">
-                  <a href="#">
-                    <img src="https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/gh-pages/img/cassetto2.jpg" width="100px">
-                  </a>
-                </div>
-                <div class="media-body">
-                  <h4><a href="/ikeanordlihack">IKEA Nordli hack</a></h4>
-                  <p>
-                  <p>A simple hack for IKEA Nordli modular drawer chest: each drawer can hide an useful table. Follow the instruction and make your own by laser cutting a wood panel</p>
 
-
-                  </p>
-                  
-                </div>
-              </div>
-              <hr>
-          </div>
-         
-          <div class="col-md-4">
-              <div class="media">
-                <div class="media-left">
-                  <a href="#">
-                    <img src="ArduMemory1.jpg" width="100px">
-                  </a>
-                </div>
-                <div class="media-body">
-                  <h4><a href="/ardu-memory-reminder/">Ardu Memmory Reminder</a></h4>
-                  <p>
-                  <p>Ardu Memory Reminder
-Ultima Release del firmware: in aggiornamento  per l’ hardware R.1.0</p>
-
-<p>Ultimo aggiornamento del progetto R.1 : 30/11/2012</p>
-
-<hr />
-
-<p>Ultima Release del firmware: Rev.0.5I per l’ hardware R.0.0</p>
-
-<p>Ultimo aggiornamento del progetto R.0 : 24/11/2012</p>
-
-<hr />
-
-<p>Progetto ITALIANO basato su Arduino Uno.</p>
-
-<p>Ideato e creato da Giuseppe G., sviluppato in collaborazione con la comunità di arduino “vedi Partecipanti al progetto”</p>
-
-<p>Il progetto base, prevede la costruzione di un device di semplice comprensione ed utilizzo, al fine di aiutare le persone bisognose a ricordare le assunzioni delle medicine giornaliere.</p>
-
-<p>DESCRIZIONE DEL DEVICE.
+DESCRIZIONE DEL DEVICE.
 Tramite un display LCD, si potrà visualizzare l’ora, la data, gli allarmi e la programmazione degli stessi.
 Un altoparlante, avviserà tramite segnalazione acustica, l’allarme attivo per l’assunzione del medicinale.
 Una serie di led, indicheranno da quale scompartimento si dovrà prelevare il medicinale.
 Un pulsante verrà utilizzato per memorizzare l’avvenuta assunzione del medicinale.
-Una mini tastiera, verrà utilizzate per programmare i vari parametri come ora, data, medicina e paziente degli allarmi giornalieri.</p>
+Una mini tastiera, verrà utilizzate per programmare i vari parametri come ora, data, medicina e paziente degli allarmi giornalieri.
 
-<p>CARATTERISTICHE Tecniche.</p>
 
-<p>Software:</p>
 
-<p>32 allarmi giornalieri
+CARATTERISTICHE Tecniche.
+
+Software:
+
+32 allarmi giornalieri
 2 pazienti
 16 medicine per paziente
 segnalazione sonora a 10 suonerie differenti per i pazienti
@@ -242,18 +55,19 @@ ora legale
 lingua (IT / GB)
 autocorrezione orario girnaliera
 memoria dati su eprom
-Hardware:</p>
+Hardware:
 
-<p>Arduino UNO ATMEL328 32kflash, 2kSram, 2kEprom
+Arduino UNO ATMEL328 32kflash, 2kSram, 2kEprom
 batteria tampone per non perdere l’ora
 alimentazione da rete 220Vac
 display LCD per visualizzare le funzioni
 mini tastiera per la programmazione dei parametri
 32 scompartimenti per le medicine, 16 per il paziente 1 e 16 per il paziente 2
 segnalzione audio tramite altoparlante
-pulsante acquisizione allarme assunzione medicinale</p>
+pulsante acquisizione allarme assunzione medicinale
 
-<p>COMPONENTI per la realizzazione del progetto base Release R.0.x:
+
+COMPONENTI per la realizzazione del progetto base Release R.0.x:
 n.1 Arduino Uno
 n.1 display LCD
 n.3 pulsanti KPT
@@ -271,9 +85,11 @@ n.1 altoparlante 4-8ohm
 n.1 transistor NPN BC337/40
 n.2 condensatori poliestere da 1uF 50V
 n.3 condensatori ceramici 10nF 60V
-n.1 diodo zenere 6V2 1/2W</p>
+n.1 diodo zenere 6V2 1/2W
 
-<p>COMPONENTI per la realizzazione del progetto base Release R.1.x:
+
+
+COMPONENTI per la realizzazione del progetto base Release R.1.x:
 n.1 Arduino Uno
 n.1 display LCD 16×2
 n.5 pulsanti KPT
@@ -290,14 +106,18 @@ n.1 altoparlante 4-8ohm
 n.1 transistor NPN BC337/40
 n.2 condensatori poliestere da 1uF 50V
 n.1 eprom 24C64 8pin DIP
-n.1 trimmer 10k</p>
+n.1 trimmer 10k
 
-<p>FUTURE.
-Il progetto subirà in un secondo momento, un upgrade con l’utilizzo di Arduino Mega o Due per poter implementare delle funzioni, che trasformeranno lo stesso in una sorta di dottore personale.</p>
 
-<p>Stesura idee per l’implementazione hardware e software:</p>
 
-<p>Segnalazione audio ripetuta n. volte in 30 minuti per ricordare l’assunzione
+FUTURE.
+Il progetto subirà in un secondo momento, un upgrade con l’utilizzo di Arduino Mega o Due per poter implementare delle funzioni, che trasformeranno lo stesso in una sorta di dottore personale.
+
+
+
+Stesura idee per l’implementazione hardware e software:
+
+Segnalazione audio ripetuta n. volte in 30 minuti per ricordare l’assunzione
 Aggiunta shield RTC con DS1307
 Aggiunta EPROM esterna per la memorizzazione medicinali assunti  e non durante la giornata (sorta di audit-trail che traccia la cronostoria delle assunzioni)
 Illuminazione scompartimento in plexiglass lumineschente
@@ -307,95 +127,100 @@ Chiamata al cellulare per assunzione medicina lontano dal device
 Telecomando per chimate telefoniche di emergenza
 Misuratore di temperatura istantaneo
 Misuratore di battiti cardiaci
-Segnalazione mancata assunzione, termine del medicinale via telefono, SMS o E-Mail.</p>
+Segnalazione mancata assunzione, termine del medicinale via telefono, SMS o E-Mail.
 
-<p>Discussione aperta per la ricerca:</p>
 
-<p>arduomemoryreminder sul forum italiano software</p>
+Discussione aperta per la ricerca:
 
-<p>( http://arduino.cc/forum/index.php/board,84.0.html )</p>
+arduomemoryreminder sul forum italiano software
 
-<p>e su</p>
+( http://arduino.cc/forum/index.php/board,84.0.html )
 
-<p>( http://www.fablabtorino.org/portfolios/ )</p>
+e su
 
-<p>FUNZIONAMENTO:</p>
+( http://www.fablabtorino.org/portfolios/ )
 
-<p>Il device una volta configurato per la data, orario, lingua, suonerie e prorammato con le scadenze ed i medicinali da assumere, ricordeà ai pazienti la corretta assunzione di questi.</p>
 
-<p>Il paziente, udendo la segnalazione sonora, dovrà recarsi entro 1 minuto, davanti al device, premere il pulsante ACK (acquisizione) ed assumere il medicinale segnalato con l’accensione del led rispettivo allo scompartimento, il quale rimarrà acceso ancora per 1 minuto, per permettere al paziente di prendere la medicina.</p>
 
-<p>Se il pulsante ACK non viene premuto, il led continuerà a lampeggiare ancora per 30 minuti, dopo di chè, cessera di lampeggiare.</p>
+FUNZIONAMENTO:
 
-<p>ISTRUZIONI PER LA PROGRAMMAZIONE:</p>
+Il device una volta configurato per la data, orario, lingua, suonerie e prorammato con le scadenze ed i medicinali da assumere, ricordeà ai pazienti la corretta assunzione di questi.
 
-<p>Modalità di accesso alla configurazione del sistema:</p>
+Il paziente, udendo la segnalazione sonora, dovrà recarsi entro 1 minuto, davanti al device, premere il pulsante ACK (acquisizione) ed assumere il medicinale segnalato con l’accensione del led rispettivo allo scompartimento, il quale rimarrà acceso ancora per 1 minuto, per permettere al paziente di prendere la medicina.
 
-<p>Premere il tasto UP (config. system)</p>
+Se il pulsante ACK non viene premuto, il led continuerà a lampeggiare ancora per 30 minuti, dopo di chè, cessera di lampeggiare.
 
-<p>Parametro                 Valore
-<strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__
-SET_hours</strong><em>time    0-23
+
+
+ISTRUZIONI PER LA PROGRAMMAZIONE:
+
+Modalità di accesso alla configurazione del sistema:
+
+Premere il tasto UP (config. system)
+
+Parametro                 Valore
+________________________________________
+SET_hours___time    0-23
 SET_minutes_time     0-59
 SET_day_of__date   1-31
-SET_month</em><strong>date  1-12
-SET_year</strong><strong>date   1970-2030
+SET_month___date  1-12
+SET_year____date   1970-2030
 SET_ADJ_sec_time  0-59
-SET_Legal</strong>_time    0-1
+SET_Legal___time    0-1
 SET_Langu._GB/IT   0-1
 SET_Sound.Pat._1     0-9
 SET_Sound.Pat._2     0-9
 SET_hours_time__    0-23
 Permette di impostare l’ora corrente
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>SET_minutes_time    0-59
+SET_minutes_time    0-59
 Permette di impostare i minuti dell’ora corrente
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>SET_day_of_date        1-31
+SET_day_of_date        1-31
 Permetee di imostare il giorno della data corrente
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>SET_month___date    1-12
+SET_month___date    1-12
 Permette di impostare il mese della data corrente
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>SET_year___date        1970-2030
+SET_year___date        1970-2030
 Permette di impostare l’anno della data corrente
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>SET_ADJ_sec_time    0-59
+SET_ADJ_sec_time    0-59
 Permette di impostare la correzione giornaliera in secondi del tempo
 (questo parametro è stato inserito per correggere l’errore generato dal clock di Arduino Uno)
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>SET_Legal___time    0-1
+SET_Legal___time    0-1
 Permette di attivare “1″ o disattivare “0″ l’ora legale per il cambio automatico
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>SET_Langu._GB/IT   0-1
+SET_Langu._GB/IT   0-1
 Permette di selezionare la lingua inglese “0″ = GB o la lingua italiana “1″ = IT
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>SET_Sound.Pat._1     0-9
+SET_Sound.Pat._1     0-9
 Permette di selezionare la suoneria dedicata al paziente 1 con una scelta di 10 tonalità diverse.
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>SET_Sound.Pat._2     0-9
+SET_Sound.Pat._2     0-9
 Permette di selezionare la suoneria dedicata al paziente 2 con una scelta di 10 tonalità diverse.
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>PS.: Se durante l’inserimento dei parametri, non si interviene entro 60 secondi dall’ultima
+PS.: Se durante l’inserimento dei parametri, non si interviene entro 60 secondi dall’ultima
 pressione dei tasti, il device uscirà automaticamente dalla configurazione riportandosi alla
-visualizzazione normale di standby.</p>
+visualizzazione normale di standby.
 
-<p>Modalità di accesso ai parametri:</p>
+Modalità di accesso ai parametri:
 
-<p>Premere il tasto DW (view config. alarms da 1 a 32)</p>
+Premere il tasto DW (view config. alarms da 1 a 32)
 
-<p>Parametro               Valore
-<strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><em>__</em>
+Parametro               Valore
+________________________________________
 AL1    Time:xx.xx    00.00-23.59
 Pat.:0x                    1-2
 Med.:xx                  0-32
@@ -413,94 +238,116 @@ Med.:xx                  0-32
 …
 AL32    Time:xx.xx    00.00-23.59
 Pat.:0x                      1-2
-Med.:xx                    0-32</p>
+Med.:xx                    0-32
 
-<p>Durante la visualizzazione della configurazione allarmi, è possibile premere
-il tasto “ENT” ed entrare nella programmazione dell’allarme selezionato</p>
+Durante la visualizzazione della configurazione allarmi, è possibile premere
+il tasto “ENT” ed entrare nella programmazione dell’allarme selezionato
 
-<p>SET_hour____ALx        00-23
+SET_hour____ALx        00-23
 Permette di impostare l’ora di intervento dell’allarme x
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>SET_min.____ALx        00-59
+SET_min.____ALx        00-59
 Permette di impostare i minuti di intervento dell’allarme x
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>SET_Patient_ALx        01-02
+SET_Patient_ALx        01-02
 Permette di impostare il paziente richiamato dell’allarme x
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>SET_Medicin_ALx        00-16 .. 17-32
+SET_Medicin_ALx        00-16 .. 17-32
 Permette di impostare la medicina da segnalare dell’allarme x
 Se la medicina inserita = 0, il dispositivo disattiverà l’allarme, non tenedo conto dell’orario.
-Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare</p>
+Una volta inserito il parametro corretto, premere il tasto “ENT” per continuare
 
-<p>NB: Tutti i parametri saranno salvati in copia sulla eprom, in maniera che non vengano persi, causa spegnimento device.
+
+
+NB: Tutti i parametri saranno salvati in copia sulla eprom, in maniera che non vengano persi, causa spegnimento device.
 PS.: Se durante l’inserimento dei parametri, non si interviene entro 60 secondi dall’ultima
 pressione dei tasti, il device uscirà automaticamente dalla configurazione riportandosi alla
-visualizzazione normale di standby.</p>
+visualizzazione normale di standby.
 
-<p>Modalità di default:</p>
 
-<p>Premere il tasto DW al riavvio del device</p>
 
-<p>In questo modo, tutti i parametri verranno sovrascritti dai dati di default inseriti nell’array dello sketch, compreso la sovrascrittura della eprom.</p>
+Modalità di default:
 
-<p>Rimarranno invariati i parametri di configurazione del sistema.</p>
+Premere il tasto DW al riavvio del device
 
-<p>Partecipanti al progetto Open Source:</p>
+In questo modo, tutti i parametri verranno sovrascritti dai dati di default inseriti nell’array dello sketch, compreso la sovrascrittura della eprom.
 
-<p>Main Project &amp; Research:        Giuseppe G. (forum di arduino.cc)</p>
+Rimarranno invariati i parametri di configurazione del sistema.
 
-<p>Main Software Developer:      tuxduino  (forum di arduino.cc)</p>
 
-<p>Tips and ideas (forum di arduino.cc):</p>
 
-<p>Ale92 , cace99 , MauroTec , ​leo72 , cyberhs , Nik_90​ , brunello</p>
 
-<p>Realizzazione della bacheca in compensato a scompartimenti per contenere le scatole delle medicine.</p>
 
-<p>Prototipo del progetto base per testare il corretto funzionamento</p>
+Partecipanti al progetto Open Source:
 
-<p>ELENCO Release Hardware del progetto:</p>
+Main Project & Research:        Giuseppe G. (forum di arduino.cc)
 
-<p>Revisione hardware base R0.0 per versioni firmware R.0.xx</p>
+Main Software Developer:      tuxduino  (forum di arduino.cc)
 
-<p>Circuito hardware revisione R.1.0 per implementazioni firmware R.1.xx</p>
+Tips and ideas (forum di arduino.cc):
 
-<p>Aggiornamento HD R.1.0a con elenco componenti.</p>
+Ale92 , cace99 , MauroTec , ​leo72 , cyberhs , Nik_90​ , brunello
 
-<p>Versione R.1.1 con l’implementazione del PCF8574 per il pilotaggio del display LCD.</p>
 
-<p>ELENCO RELEASE / INFO FIRMWARE ArduoMemoryReminder per hardware R.0.0:</p>
 
-<p>Prima release base funzionante testata: sketch_ArduoMemoryReminder_R05d</p>
 
-<p>Guida veloce all’utilizzo del device ArduoMemoryReminder R05d</p>
+Realizzazione della bacheca in compensato a scompartimenti per contenere le scatole delle medicine.
 
-<p>Revisione con dati in eprom ed inserimento array per parametri di default con funzione legata alla pressione del tasto down all’accensione. A_M_R_05f</p>
 
-<p>Revisione con selezione lingua su eprom, gestione led con matrice by tuxduino e completamento descrizioni funzioni.A_M_R_05G</p>
 
-<p>Revisione con matrice gestione led originale.A_M_R_05G1</p>
 
-<p>Revisione con sistemazione bug ore allarme n.1 in conflitto in eprom con selezione lingua ed inserimento 10 segnalazioni sonore e pause differenti con frequenze basse per i due pazienti, memorizzate in eprom.A_M_R_05H</p>
 
-<p>Revisione con inserimento gestione locazione creata ed inserita da tuxduino, sistemazione descrizione parametro “ora legale” in inglese e sistemazione bug selezione medicina 00 paziente 2.A_M_R_05i</p>
+Prototipo del progetto base per testare il corretto funzionamento
 
-<p>Revisione provvisoria di partenza per l’utilizzo dell’hardware R.1.0a con varie adj sia HD che SW. Per l’utilizzo di una eprom esterna, occorre ricordare di inserire due resitenze nelle linee SDA e SCL da 2k verso il +5V.A_M_R_1_0_0c</p>
 
-<p>/* Sketch ArduoMemoryReminder R.1.0c
-<strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><em>__</em></p>
+ELENCO Release Hardware del progetto:
 
-<p>Invent &amp; Create by Giuseppe G. (giusby &amp; gengysghey) 04/09/2012
-For remember to take the medicine of day</p>
 
-<p>Basic design first published in the “http://www.arduomemory.blogspot.it” site
-and later at FABLAB Turin for implementations at project</p>
+Revisione hardware base R0.0 per versioni firmware R.0.xx
 
-<p>Cooperation whit tuxduino by forum arduino (R.0.5g-R.0.5i)
-<strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__
+Circuito hardware revisione R.1.0 per implementazioni firmware R.1.xx
+
+Aggiornamento HD R.1.0a con elenco componenti.
+
+Versione R.1.1 con l’implementazione del PCF8574 per il pilotaggio del display LCD.
+
+
+
+
+
+
+ELENCO RELEASE / INFO FIRMWARE ArduoMemoryReminder per hardware R.0.0:
+
+Prima release base funzionante testata: sketch_ArduoMemoryReminder_R05d
+
+Guida veloce all’utilizzo del device ArduoMemoryReminder R05d
+
+Revisione con dati in eprom ed inserimento array per parametri di default con funzione legata alla pressione del tasto down all’accensione. A_M_R_05f
+
+Revisione con selezione lingua su eprom, gestione led con matrice by tuxduino e completamento descrizioni funzioni.A_M_R_05G
+
+Revisione con matrice gestione led originale.A_M_R_05G1
+
+Revisione con sistemazione bug ore allarme n.1 in conflitto in eprom con selezione lingua ed inserimento 10 segnalazioni sonore e pause differenti con frequenze basse per i due pazienti, memorizzate in eprom.A_M_R_05H
+
+Revisione con inserimento gestione locazione creata ed inserita da tuxduino, sistemazione descrizione parametro “ora legale” in inglese e sistemazione bug selezione medicina 00 paziente 2.A_M_R_05i
+
+Revisione provvisoria di partenza per l’utilizzo dell’hardware R.1.0a con varie adj sia HD che SW. Per l’utilizzo di una eprom esterna, occorre ricordare di inserire due resitenze nelle linee SDA e SCL da 2k verso il +5V.A_M_R_1_0_0c
+
+/* Sketch ArduoMemoryReminder R.1.0c
+________________________________________________________________________________________________________________
+
+Invent & Create by Giuseppe G. (giusby & gengysghey) 04/09/2012
+For remember to take the medicine of day
+
+Basic design first published in the "http://www.arduomemory.blogspot.it" site
+and later at FABLAB Turin for implementations at project
+
+Cooperation whit tuxduino by forum arduino (R.0.5g-R.0.5i)
+________________________________________________________________________________________________________________
 Current version: (modify software for adapting new hardware R.1.0 start by tuxduino)
 Revision:1.0.0(about 16858 bytes of 32256 flash and about xxx byte of sram free)
 Compiled with Arduino IDE 0022 WinXP
@@ -513,11 +360,11 @@ ok  - rtc: if adjust the time and date, automatically adjust on rtc system
 ok  - reloched connection pin speaker
 ok  - reloched connection pin lcd
 ok  - pin input analog buttons da aggiornale
-ok  - insert key ESC &amp; CFG
+ok  - insert key ESC & CFG
 ok  - insert function test read/write external eeprom
-__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong></p>
+________________________________________________________________________________________________________________
 
-<p>Old version:
+Old version:
 Current version:
 Revision:0.5i(about 13570 bytes of 32256 flash and about 640 byte of sram free)
 Compiled with Arduino IDE 0022 WinXP
@@ -525,38 +372,38 @@ Date:24/11/2012
 ok  1-   Insert a location management by tuxduino
 ok  2-   Correct the description parameter of DST, Daylight Saving Time
 ok  3-   Correct description button keyACK
-ok  4-   Correct bug select medicine 00 on patient 2</p>
+ok  4-   Correct bug select medicine 00 on patient 2
 
-<p>Revision:0.5H(about 13456 bytes with about 740 byte of sram free “free about 3k (-2768) of flash memory with matrix”)
+Revision:0.5H(about 13456 bytes with about 740 byte of sram free "free about 3k (-2768) of flash memory with matrix")
 Compiled with Arduino IDE 0022 WinXP
 Date:22/11/2012
 ok  1-   Correct bug selection language by eprom range n. 0, move to n.128
 ok  2-   Insert a new sound and select in config for patient
-ok  3-   Insert memory to erpom for select sound patient 1 &amp; 2 on n.129 &amp; n.130
-ok  4-   Remuve test alarm sound test on start-up defaut parameter</p>
+ok  3-   Insert memory to erpom for select sound patient 1 & 2 on n.129 & n.130
+ok  4-   Remuve test alarm sound test on start-up defaut parameter
 
-<p>Revision:0.5G1(about 12944 bytes with about 900 byte of sram free “free about 3k (-2768) of flash memory with matrix”)
+Revision:0.5G1(about 12944 bytes with about 900 byte of sram free "free about 3k (-2768) of flash memory with matrix")
 Compiled with Arduino IDE 0022 WinXP
 Date:20/11/2012
 ok  1-   Insert a new matrix by tuxduino for control led
-ok  2-   Relocation original matrix WriteCell() with verirow</p>
+ok  2-   Relocation original matrix WriteCell() with verirow
 
-<p>Revision:0.5f(about 15714 bytes with about 1000 byte of sram free)
+Revision:0.5f(about 15714 bytes with about 1000 byte of sram free)
 Compiled with Arduino IDE 0022 WinXP
 Date:15/11/2012
-ok  1-   Insert a parameter default on array “def_par” and enable with push dw on start-up
+ok  1-   Insert a parameter default on array "def_par" and enable with push dw on start-up
 ok  2-   Insert a parameters on eprom
-<strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><em>__</em></p>
+________________________________________________________________________________________________________________
 
-<p>Caracteristics R.0.5c-R.05d-R.0.5e-R.0.5fx-R.0.5gx-R.0.5i:
+Caracteristics R.0.5c-R.05d-R.0.5e-R.0.5fx-R.0.5gx-R.0.5i:
 max 32 alarms
 max 2 patient
 max 16 medicine for patient (tot. 32 medicines)
-<strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><em>__</em></p>
+________________________________________________________________________________________________________________
 
-<p>Hardware Basic components R.0.5c-R.05d-R.0.5e-R.0.5fx-R.0.5g-R.0.5H:</p>
+Hardware Basic components R.0.5c-R.05d-R.0.5e-R.0.5fx-R.0.5g-R.0.5H:
 
-<p>32 led yellow alarm medicine patient 1&amp;2
+32 led yellow alarm medicine patient 1&2
 1 speaker for noise alarm segnalation (4-8 ohm)
 5 resistors 220ohm 1/4W
 1 LCD 1602 (16ch x 2line)
@@ -575,8 +422,9 @@ max 16 medicine for patient (tot. 32 medicines)
 1 battery 3V CR2032
 1 RTC DS1307
 1 EPROM 24C64
-<strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><em>__</em></p>
-<div class="highlighter-rouge"><pre class="highlight"><code>The circuit:
+________________________________________________________________________________________________________________
+```
+The circuit:
  * LCD RS pin to digital pin 12
  * LCD Enable pin to digital pin 11
  * LCD D4 pin to digital pin 7
@@ -606,22 +454,22 @@ max 16 medicine for patient (tot. 32 medicines)
 //**********************************************************************************
 
 // include the library code:
-#include &lt;EEPROM.h&gt;
-#include &lt;LiquidCrystal.h&gt;
-#include &lt;Time.h&gt;
-#include &lt;Tone.h&gt;
+#include <EEPROM.h>
+#include <LiquidCrystal.h>
+#include <Time.h>
+#include <Tone.h>
 
 // DS13O7 support
-#include &lt;DS1307RTC.h&gt;
-#include &lt;Wire.h&gt;
+#include <DS1307RTC.h>
+#include <Wire.h>
 
 // external EEPROM define type 24C64 address 0
 #define DEV_ADDR 0x50
 void i2c_eeprom_write_byte( int deviceaddress, unsigned int eeaddress, byte data ) {
   int rdata = data;
   Wire.beginTransmission(deviceaddress);
-  Wire.send((int)(eeaddress &gt;&gt; 8)); // MSB
-  Wire.send((int)(eeaddress &amp; 0xFF)); // LSB
+  Wire.send((int)(eeaddress >> 8)); // MSB
+  Wire.send((int)(eeaddress & 0xFF)); // LSB
   Wire.send(rdata);
   Wire.endTransmission();
 }
@@ -629,8 +477,8 @@ void i2c_eeprom_write_byte( int deviceaddress, unsigned int eeaddress, byte data
 byte i2c_eeprom_read_byte( int deviceaddress, unsigned int eeaddress ) {
   byte rdata = 0xFF;
   Wire.beginTransmission(deviceaddress);
-  Wire.send((int)(eeaddress &gt;&gt; 8)); // MSB
-  Wire.send((int)(eeaddress &amp; 0xFF)); // LSB
+  Wire.send((int)(eeaddress >> 8)); // MSB
+  Wire.send((int)(eeaddress & 0xFF)); // LSB
   Wire.endTransmission();
   Wire.requestFrom(deviceaddress,1);
   if (Wire.available()) {
@@ -792,7 +640,7 @@ const char* getString(byte stringId) {
 
 // select language; the selection is stored in eeprom by tuxduino
 void setCurrLang(byte langId) {
-    if (langId &lt; NUM_LANGS) {
+    if (langId < NUM_LANGS) {
         _lang = langId;
         EEPROM.write(EE_LANG_ADDR, _lang);
     }
@@ -809,7 +657,7 @@ void initLangFromEeprom() {
     byte lang;
 
     lang = EEPROM.read(EE_LANG_ADDR);       // read language setting from eeprom
-    if (lang &gt; LANG_LAST) {                 // if the value is invalid
+    if (lang > LANG_LAST) {                 // if the value is invalid
         lang = LANG_FIRST;                  // set it to a default value
         EEPROM.write(EE_LANG_ADDR, lang);   // and save it
     }
@@ -836,15 +684,15 @@ void setup() {
 
   //  bug Rev.0.5g1
 //  lang=EEPROM.read(0);  // read language by eprom
-//  if (lang&gt;1) {lang=0;EEPROM.write(0,0);}//set to standard language "GB" if no setting
+//  if (lang>1) {lang=0;EEPROM.write(0,0);}//set to standard language "GB" if no setting
 
     initLangFromEeprom(); // by tuxduino
 
   sel_sound1=EEPROM.read(129);  // read sound patient 1
-  if (sel_sound1&gt;9) {sel_sound1=0;EEPROM.write(129,0);}//set to standard sound patient 1
+  if (sel_sound1>9) {sel_sound1=0;EEPROM.write(129,0);}//set to standard sound patient 1
 
   sel_sound2=EEPROM.read(130);  // read sound patient 2
-  if (sel_sound2&gt;9) {sel_sound2=0;EEPROM.write(130,0);}//set to standard sound patient 2
+  if (sel_sound2>9) {sel_sound2=0;EEPROM.write(130,0);}//set to standard sound patient 2
 
   /*/////////*/
 Serial.begin(9600);  // start serial monitor //R.0.5d
@@ -859,18 +707,18 @@ Wire.begin();
   // Print a message version project to the LCD on start-up.
   lcd.print("ArduoMemoryR1.0c");
   lcd.setCursor(0, 1);
-  lcd.print("By Giuseppe &amp; Co");  
+  lcd.print("By Giuseppe & Co");  
   //analogButtons.checkButtons();
   delay (1000);
 
 // verify push down at start up for default parameter set
 //  if (digitalRead(keyDW)== 1) { // key down start up active
-  if (analogRead(analogpin)&gt;=676 &amp;&amp; analogRead(analogpin)&lt;=678) { // key down start up active
+  if (analogRead(analogpin)>=676 && analogRead(analogpin)<=678) { // key down start up active
 
   lcd.setCursor(0, 1);
   lcd.print(getString(STR_SET_DEFAULT_ALARM));  //R.0.5f
     sound.play(DTMF[4], 500);
-      for (int i=0; i &lt;= 31; i++){
+      for (int i=0; i <= 31; i++){
         alm_h[i+1]=def_par[(i*4)];
         EEPROM.write((i*4), def_par[(i*4)]);  
 
@@ -885,7 +733,7 @@ Wire.begin();
       }
 
   } else {
-        for (int i=0; i &lt;= 31; i++){
+        for (int i=0; i <= 31; i++){
           alm_h[i+1]=EEPROM.read(i*4);      
           alm_m[i+1]=EEPROM.read((i*4)+1);      
           pat[i+1]=EEPROM.read((i*4)+2);
@@ -925,14 +773,14 @@ Wire.begin();
 void loop() {
 
     // adj real time correction(increase adjs second for day"
-    if (hour() == 23 &amp;&amp; minute() == 59 &amp;&amp; second() == 60-adjs){
+    if (hour() == 23 && minute() == 59 && second() == 60-adjs){
       setTime(23,59,59,day(),month(),year());
       // also update RTC
       RTC.set(now());
     }
 
     // automatic legal time correction +1
-    if (ltime==1 &amp;&amp; hour() == 2 &amp;&amp; minute() == 00 &amp;&amp; second() == 00 &amp;&amp; weekday() == 1 &amp;&amp; month()== 3 &amp;&amp; day() &gt; 24 ){
+    if (ltime==1 && hour() == 2 && minute() == 00 && second() == 00 && weekday() == 1 && month()== 3 && day() > 24 ){
       setTime(03,00,00,day(),month(),year());
       memltime=0;
       // also update RTC
@@ -940,7 +788,7 @@ void loop() {
     }
 
     // automatic legal time correction -1
-    if (memltime == 0 &amp;&amp; ltime==1 &amp;&amp; hour() == 3 &amp;&amp; minute() == 00 &amp;&amp; second() == 00 &amp;&amp; weekday() == 1 &amp;&amp; month()== 10 &amp;&amp; day() &gt; 24 ){
+    if (memltime == 0 && ltime==1 && hour() == 3 && minute() == 00 && second() == 00 && weekday() == 1 && month()== 10 && day() > 24 ){
       setTime(02,00,00,day(),month(),year());
       memltime=1;
       // also update RTC
@@ -949,9 +797,9 @@ void loop() {
 
   // verify if is active all's alarms (1-32)
   // PS.: The first section n. 0 is used for view segnalation alarm when active
-  for (int i=1; i &lt;= 32; i++){
+  for (int i=1; i <= 32; i++){
 
-    if (alm_h[i] == hour() &amp;&amp; alm_m[i] == minute() &amp;&amp; med[i] != 0 &amp;&amp; prg==0 &amp;&amp; memalarm == 0 ){
+    if (alm_h[i] == hour() && alm_m[i] == minute() && med[i] != 0 && prg==0 && memalarm == 0 ){
     alarm = 1;
     alm_h[0] = alm_h[i];
     alm_m[0] = alm_m[i];
@@ -982,9 +830,9 @@ void loop() {
   i2c_eeprom_write_byte(DEV_ADDR, 0 , vp);
   }
 
-  if (keyDW== 0 &amp;&amp; keyUP== 0 &amp;&amp; keyACK== 0 &amp;&amp; keyESC== 0 &amp;&amp; keyCFG== 0) {mempush = 0; }// reset memory push button &amp; exe function
+  if (keyDW== 0 && keyUP== 0 && keyACK== 0 && keyESC== 0 && keyCFG== 0) {mempush = 0; }// reset memory push button & exe function
 
-  if (push == 1 &amp;&amp; alarm == 1 &amp;&amp; mempush == 0) {// acknoleg alarm
+  if (push == 1 && alarm == 1 && mempush == 0) {// acknoleg alarm
     mempush=1;
     memalarm = 2;
     alarm = 0;
@@ -994,23 +842,23 @@ void loop() {
   }
 
   // reset memory alarm old
-  if (push == 1 &amp;&amp; alarm == 0 &amp;&amp; memalarm == 1 &amp;&amp; mempush==0) {
+  if (push == 1 && alarm == 0 && memalarm == 1 && mempush==0) {
     mempush = 1;
     gen_reset();
     }
 
   // verify new minute in alarm for automatically noise off
-  if (second() == s_old &amp;&amp; memalarm == 1) {
+  if (second() == s_old && memalarm == 1) {
     alarm = 0;
     }
 
   // reset total alarm and memory after minute
-  if (second() == s_old &amp;&amp; memalarm == 2) {
+  if (second() == s_old && memalarm == 2) {
     gen_reset();
     }
 
   // set start minute memory alarm and view single medicine
-  if (alarm == 1 &amp;&amp; memalarm == 0) {
+  if (alarm == 1 && memalarm == 0) {
     memalarm = 1;
     s_old = 59;
     min_old = minute();
@@ -1018,13 +866,13 @@ void loop() {
     }// end if set start minute memory alarm
 
   // increase minute counter memory of alarm segnalation
-  if (memalarm == 1 &amp;&amp; min_old != minute()) {
+  if (memalarm == 1 && min_old != minute()) {
     mmin++;
     min_old = minute();
     }
 
   // reset auto-clear memory alarm segnalation after 30 minutes
-  if (memalarm == 1 &amp;&amp; mmin == 30) {
+  if (memalarm == 1 && mmin == 30) {
     gen_reset();   
     }
 
@@ -1035,13 +883,13 @@ void loop() {
     }
 
   // active alarm noise segnalation
-    if (lamp == 1 &amp;&amp; alarm == 1 &amp;&amp; memalarm != 2) {
+    if (lamp == 1 && alarm == 1 && memalarm != 2) {
       noise_alarm();//call noise alarm segnalation
     } else {
       si=0;
     }
 
-  //write the time &amp; date o LCD
+  //write the time & date o LCD
   if (prg == 0){
     lcd.setCursor(0, 0);
     printDigits(hour());// hour current time
@@ -1053,8 +901,8 @@ void loop() {
 
     printDigits(minute());//minute current time
 
-  //view date &amp; patient blinking if alarm is run
-  if (lamp == 1 &amp;&amp; memalarm == 1) {
+  //view date & patient blinking if alarm is run
+  if (lamp == 1 && memalarm == 1) {
     //reset all led
     allOff();
     lcd.setCursor(0, 0);
@@ -1083,12 +931,12 @@ void loop() {
     printDigits(year());
     }
 
-    if (prg == 0 &amp;&amp; memalarm == 0){
+    if (prg == 0 && memalarm == 0){
       lcd.setCursor(0, 1);
       lcd.print(getString(STR_NO_ALARM));
       }
 
-  }  //end write the time &amp; date in standby mode
+  }  //end write the time & date in standby mode
 
   configuration();  // call configuration subroutine
 
@@ -1105,19 +953,19 @@ void loop() {
 //int freeRam () {
 //  extern int __heap_start, *__brkval;
 //  int v;
-//  return (int) &amp;v - (__brkval == 0 ? (int) &amp;__heap_start : (int) __brkval);
+//  return (int) &v - (__brkval == 0 ? (int) &__heap_start : (int) __brkval);
 //  }
 
 void noise_alarm(){
   //generation noise alarm for patient
   if (pat[0]==1) {
     si=si+sel_sound1;
-    if (si &gt; 20) {si=1;}
+    if (si > 20) {si=1;}
     sound.play(DTMF[si], 50+(sel_sound1*200));
   }
   if (pat[0]==2) {
     si=si+sel_sound2;  
-    if (si &gt; 20) {si=1;}
+    if (si > 20) {si=1;}
     sound.play(DTMF[si], 50+(sel_sound2*200));
   }  
 }
@@ -1130,7 +978,7 @@ void configuration(){
         lcd.print(getString(STR_SET_HOURS));// by tuxduino
         lcd.setCursor(0, 1);
         ho_old = ho_old + tast;
-        if (ho_old &gt; 23 || ho_old &lt; 0) {ho_old = 0;}
+        if (ho_old > 23 || ho_old < 0) {ho_old = 0;}
         tast = 0;
         printDigits(ho_old);
         }
@@ -1140,7 +988,7 @@ void configuration(){
         lcd.print(getString(STR_SET_MINUTES));// by tuxduino
         lcd.setCursor(0, 1);
         mi_old = mi_old + tast;
-        if (mi_old &gt; 59 || mi_old &lt; 0) {mi_old = 0;}
+        if (mi_old > 59 || mi_old < 0) {mi_old = 0;}
         tast = 0;
         printDigits(mi_old);
         }
@@ -1150,7 +998,7 @@ void configuration(){
         lcd.print(getString(STR_SET_DAY));// by tuxduino
         lcd.setCursor(0, 1);
         da_old = da_old + tast;
-        if (da_old &gt; 31 || da_old &lt; 1) {da_old = 1;}
+        if (da_old > 31 || da_old < 1) {da_old = 1;}
         tast = 0;
         printDigits(da_old);
         }
@@ -1160,7 +1008,7 @@ void configuration(){
         lcd.print(getString(STR_SET_MONTH));// by tuxduino
         lcd.setCursor(0, 1);
         mo_old = mo_old + tast;
-        if (mo_old &gt; 12 || mo_old &lt; 1) {mo_old = 1;}
+        if (mo_old > 12 || mo_old < 1) {mo_old = 1;}
         tast = 0;
         printDigits(mo_old);
         }
@@ -1170,7 +1018,7 @@ void configuration(){
         lcd.print(getString(STR_SET_YEAR));// by tuxduino
         lcd.setCursor(0, 1);
         ye_old = ye_old + tast;
-        if (ye_old &gt; 2030 || ye_old &lt; 1970) {ye_old = 2012;}
+        if (ye_old > 2030 || ye_old < 1970) {ye_old = 2012;}
         tast = 0;
         printDigits(ye_old);
         }
@@ -1180,7 +1028,7 @@ void configuration(){
         lcd.print(getString(STR_ADJ_SEC));// by tuxduino
         lcd.setCursor(0, 1);
         adjs = adjs + tast;
-        if (adjs &gt; 59 || adjs &lt; 0) {adjs = 0;}
+        if (adjs > 59 || adjs < 0) {adjs = 0;}
         tast = 0;
         printDigits(adjs);
         }
@@ -1190,7 +1038,7 @@ void configuration(){
         lcd.print(getString(STR_SET_LEGAL_TIME));// by tuxduino
         lcd.setCursor(0, 1);
         ltime = ltime + tast;
-        if (ltime &gt; 1 || ltime &lt; 0) {ltime = 0;}
+        if (ltime > 1 || ltime < 0) {ltime = 0;}
         tast = 0;
         printDigits(ltime);
         memltime=0;
@@ -1202,7 +1050,7 @@ void configuration(){
         lcd.print(getString(STR_SET_LANG));// by tuxduino
         lcd.setCursor(0, 1);
         lang = getCurrLang() + tast;
-        if (lang &gt; LANG_LAST) {
+        if (lang > LANG_LAST) {
             lang = LANG_FIRST;
         }
         setCurrLang(lang);
@@ -1217,7 +1065,7 @@ void configuration(){
         lcd.setCursor(0, 1);
         sel_sound1 = sel_sound1 + tast;
         //check the sound patient n.1 selected        
-        if (sel_sound1 &gt; 9 || sel_sound1 &lt; 0) {sel_sound1 = 0;}
+        if (sel_sound1 > 9 || sel_sound1 < 0) {sel_sound1 = 0;}
         EEPROM.write(129,sel_sound1);
         tast = 0;
         printDigits(sel_sound1);
@@ -1230,7 +1078,7 @@ void configuration(){
         lcd.setCursor(0, 1);
           //check the sound patient n.2 selected        
         sel_sound2 = sel_sound2 + tast;
-        if (sel_sound2 &gt; 9 || sel_sound2 &lt; 0) {sel_sound2 = 0;}
+        if (sel_sound2 > 9 || sel_sound2 < 0) {sel_sound2 = 0;}
         EEPROM.write(130,sel_sound2);
         tast = 0;
         printDigits(sel_sound2);
@@ -1246,7 +1094,7 @@ void configuration(){
         memalarm = 0;
         tast=0;
         mtast=0;
-        setTime(ho_old,mi_old,0,da_old,mo_old,ye_old);  //set new time&amp;date
+        setTime(ho_old,mi_old,0,da_old,mo_old,ye_old);  //set new time&date
         // also update RTC
         RTC.set(now());
         }
@@ -1256,7 +1104,7 @@ void configuration(){
   //increase or decrease hour alarm select
       if (prg == 1) {
         alm_h[sel+1] = alm_h[sel+1] + tast;
-          if (alm_h[sel+1] &gt; 23 || alm_h[sel+1] &lt; 0) {alm_h[sel+1] = 0;}
+          if (alm_h[sel+1] > 23 || alm_h[sel+1] < 0) {alm_h[sel+1] = 0;}
         checkhour(alm_h[sel+1]);
           //write to eprom the parameter change
         EEPROM.write((sel*4)+prg-1, alm_h[sel+1]);
@@ -1264,7 +1112,7 @@ void configuration(){
   //increase or decrease minute alarm select
       if (prg == 2) {
         alm_m[sel+1] = alm_m[sel+1] + tast;
-          if (alm_m[sel+1] &gt; 59 || alm_m[sel+1] &lt; 0) {alm_m[sel+1] = 0;}
+          if (alm_m[sel+1] > 59 || alm_m[sel+1] < 0) {alm_m[sel+1] = 0;}
         checkmin(alm_m[sel+1]);
           //write to eprom the parameter change
         EEPROM.write((sel*4)+prg-1, alm_m[sel+1]);
@@ -1272,7 +1120,7 @@ void configuration(){
   //increase or decrease patient alarm select
       if (prg == 3) {
         pat[sel+1] = pat[sel+1] + tast;
-          if (pat[sel+1]&gt; 2 || pat[sel+1] &lt; 1) {pat[sel+1] = 1;}
+          if (pat[sel+1]> 2 || pat[sel+1] < 1) {pat[sel+1] = 1;}
         checkpat(pat[sel+1]);
           //write to eprom the parameter change       
         EEPROM.write((sel*4)+prg-1, pat[sel+1]);
@@ -1283,10 +1131,10 @@ void configuration(){
           if (tast != 0) {mtast=1;}// memory pressure key up or down
 
       //verify patient select for to assigne the medicine     
-          if ((med[sel+1]&gt; 16 || med[sel+1] &lt; 0) &amp;&amp; pat[sel+1] == 1) {med[sel+1] = 0;}
-//          if ((med[sel+1]&gt; 32 || med[sel+1] &lt; 17) &amp;&amp; pat[sel+1] == 2) {med[sel+1] = 17;} //bug R05h 24-11-2012     
-          if (med[sel+1]==1 &amp;&amp; pat[sel+1] == 2) {med[sel+1] = 17;}                                            //bug R05h 24-11-2012     
-          if ((med[sel+1]&gt; 32 || med[sel+1] &lt; 0 || med[sel+1] ==16) &amp;&amp; pat[sel+1] == 2) {med[sel+1] = 0;}     //bug R05h 24-11-2012     
+          if ((med[sel+1]> 16 || med[sel+1] < 0) && pat[sel+1] == 1) {med[sel+1] = 0;}
+//          if ((med[sel+1]> 32 || med[sel+1] < 17) && pat[sel+1] == 2) {med[sel+1] = 17;} //bug R05h 24-11-2012     
+          if (med[sel+1]==1 && pat[sel+1] == 2) {med[sel+1] = 17;}                                            //bug R05h 24-11-2012     
+          if ((med[sel+1]> 32 || med[sel+1] < 0 || med[sel+1] ==16) && pat[sel+1] == 2) {med[sel+1] = 0;}     //bug R05h 24-11-2012     
 
         checkmed(med[sel+1]);
           //write to eprom the parameter change        
@@ -1308,16 +1156,16 @@ void configuration(){
 
 // acknoleg alarms and confirm configurations parameters
 
-  if (push == 1 &amp;&amp; mempush == 0) {// verify preseed enter button (ACK)
+  if (push == 1 && mempush == 0) {// verify preseed enter button (ACK)
 
-    if (mempush ==0 &amp;&amp; prg &gt;= 1 &amp;&amp; prg &lt; 5 ) {// enter select change parameter of alarm
+    if (mempush ==0 && prg >= 1 && prg < 5 ) {// enter select change parameter of alarm
       mempush=1;
       prg = prg + 1;
       lcd.clear();
       rexit();//reset and exit program parameter
       }
 
-    if (mempush ==0 &amp;&amp; prg == 81) {// confirm hour time
+    if (mempush ==0 && prg == 81) {// confirm hour time
       mempush=1;
       prg = prg + 1;
       lcd.clear();
@@ -1325,7 +1173,7 @@ void configuration(){
       rexit();
       }
 
-    if (mempush ==0 &amp;&amp; prg == 82) {// confirm minute time
+    if (mempush ==0 && prg == 82) {// confirm minute time
       mempush=1;
       prg = prg + 1;
       lcd.clear();
@@ -1333,7 +1181,7 @@ void configuration(){
       rexit();
       }
 
-    if (mempush ==0 &amp;&amp; prg == 83) {// confirm day date
+    if (mempush ==0 && prg == 83) {// confirm day date
       mempush=1;
       prg = prg + 1;
       lcd.clear();
@@ -1341,7 +1189,7 @@ void configuration(){
       rexit();
       }
 
-    if (mempush ==0 &amp;&amp; prg == 84) {// confirm month date
+    if (mempush ==0 && prg == 84) {// confirm month date
       mempush=1;
       prg = prg + 1;
       lcd.clear();
@@ -1349,7 +1197,7 @@ void configuration(){
       rexit();
       }
 
-    if (mempush ==0 &amp;&amp; (prg &gt;= 85 &amp;&amp; prg &lt;= 90) ) {// confirm year date, adjs, legal time
+    if (mempush ==0 && (prg >= 85 && prg <= 90) ) {// confirm year date, adjs, legal time
       mempush=1;
       prg = prg + 1;
       lcd.clear();
@@ -1370,21 +1218,21 @@ void configuration(){
 ////  if (push == 3) {Serial.println("down");}
 
     // decrease the parameter select
-    if (push == 3 &amp;&amp; prg &gt;= 1 &amp;&amp; mempush == 0) {  //decrease data
+    if (push == 3 && prg >= 1 && mempush == 0) {  //decrease data
       mempush = 1;
       tast=-1;
       rexit();
       }
 
     // increase the parameter select
-    if (push == 2 &amp;&amp; prg &gt;= 1 &amp;&amp; mempush == 0) {    //increase data
+    if (push == 2 && prg >= 1 && mempush == 0) {    //increase data
       mempush = 1;
       tast=1;
       rexit();
       }
 
     // verify the push pressed for open configuration system
-    if (push == 5 &amp;&amp; prg == 0 &amp;&amp; mempush == 0 &amp;&amp; (memalarm == 0 || memalarm ==2)) {  //open configuration system
+    if (push == 5 && prg == 0 && mempush == 0 && (memalarm == 0 || memalarm ==2)) {  //open configuration system
       mempush = 1;
       memalarm=0;
       alarm=0;
@@ -1397,7 +1245,7 @@ void configuration(){
       }
 
     // verify the push pressed for open configuration alarms
-    if (push == 3 &amp;&amp; prg == 0 &amp;&amp; mempush == 0 &amp;&amp; (memalarm == 0 || memalarm ==2)) {    //open configuration parameters alarms
+    if (push == 3 && prg == 0 && mempush == 0 && (memalarm == 0 || memalarm ==2)) {    //open configuration parameters alarms
       mempush = 1;
       memalarm=0;
       alarm=0;
@@ -1407,7 +1255,7 @@ void configuration(){
       }
 
  // verify the push pressed for open configuration alarms
-    if (push == 2 &amp;&amp; prg == 0 &amp;&amp; mempush == 0 &amp;&amp; (memalarm == 0 || memalarm ==2)) {    //open configuration parameters alarms
+    if (push == 2 && prg == 0 && mempush == 0 && (memalarm == 0 || memalarm ==2)) {    //open configuration parameters alarms
       mempush = 1;
       memalarm=0;
       alarm=0;
@@ -1417,25 +1265,25 @@ void configuration(){
       }
 
     // increase the alarm view
-    if (push == 3 &amp;&amp; prg == -1 &amp;&amp; mempush == 0) {  //increase view
+    if (push == 3 && prg == -1 && mempush == 0) {  //increase view
       mempush = 1;
       memalarm=0;
       alarm=0;
       sel = sel + 1;
       rexit();
-      if (sel &gt; 31) {sel = 31;}   
+      if (sel > 31) {sel = 31;}   
       }
 
     // decrease the alarm view
-    if (push == 2 &amp;&amp; prg == -1 &amp;&amp; mempush == 0) {    //decrease view
+    if (push == 2 && prg == -1 && mempush == 0) {    //decrease view
       mempush = 1;
       sel = sel - 1;
       rexit();
-      if (sel &lt; 0) {sel = 0;}   
+      if (sel < 0) {sel = 0;}   
       }
 
     // verify the time for insert the new parameter
-    if ((s_old == second() || push==4) &amp;&amp; prg != 0){//reset automatically function if don't touch buttons
+    if ((s_old == second() || push==4) && prg != 0){//reset automatically function if don't touch buttons
       lcd.clear();
       prg = 0;
       sel = 0;
@@ -1486,12 +1334,12 @@ void gen_reset(){// general reset clear view all memory segnalation
 
 void rexit(){ //reset timer 1 minute for auto exit program
   s_old = second()-1;
-  if (s_old &lt; 0) {s_old = 59;}      
+  if (s_old < 0) {s_old = 59;}      
   sound.play(DTMF[5], 50);
   }
 
 void printDigits(int digits){ // utility function for digital clock display: prints preceding colon and leading 0
-    if(digits &lt; 10)
+    if(digits < 10)
     lcd.print('0');
     lcd.print(digits);
   }// end void printDigit
@@ -1540,11 +1388,11 @@ void checkmed(int dige){// utility for print description set medicine of alarm
 void allOff() {
     byte i;
 
-    for (i = 0; i &lt; NUM_COLS; i++) {
+    for (i = 0; i < NUM_COLS; i++) {
         pinMode(colPins[i], INPUT);
     }
 
-    for (i = 0; i &lt; NUM_ROWS; i++) {
+    for (i = 0; i < NUM_ROWS; i++) {
         pinMode(rowPins[i], INPUT);
     }
   }
@@ -1553,12 +1401,12 @@ void allOff() {
 void allOn(byte highOrLow) {
     byte i;
 
-    for (i = 0; i &lt; NUM_COLS; i++) {
+    for (i = 0; i < NUM_COLS; i++) {
         pinMode(colPins[i], OUTPUT);
         digitalWrite(colPins[i], highOrLow);
     }
 
-    for (i = 0; i &lt; NUM_ROWS; i++) {
+    for (i = 0; i < NUM_ROWS; i++) {
         pinMode(rowPins[i], OUTPUT);
         digitalWrite(rowPins[i], !highOrLow);
     }
@@ -1566,7 +1414,7 @@ void allOn(byte highOrLow) {
 
 void verirow() {
   // select patient 1 or 2 and adj number of medicine (modified for insert writeCell on release R05G1)
-  if(med[0] &gt;16){cnt=med[0]-17; value=0;} else {cnt=med[0]-1; value=1;}
+  if(med[0] >16){cnt=med[0]-17; value=0;} else {cnt=med[0]-1; value=1;}
   writeCell(cnt,value);
 }
 
@@ -1595,70 +1443,28 @@ void inputbuttons()
 {  
   int ib=0;
   ib = analogRead(analogpin);
-  if (keycount == 5 &amp;&amp; ib&gt;=676 &amp;&amp; ib &lt;=678) {keyDW=1; } else {keyDW=0; }// key down  
-  if (keycount == 5 &amp;&amp;ib&gt;=438 &amp;&amp; ib &lt;=440) {keyUP=1; } else {keyUP=0; }// key up  
-  if (keycount == 5 &amp;&amp;ib&gt;=240 &amp;&amp; ib &lt;=242) {keyACK=1; } else {keyACK=0; }// key ack / Enter
+  if (keycount == 5 && ib>=676 && ib <=678) {keyDW=1; } else {keyDW=0; }// key down  
+  if (keycount == 5 &&ib>=438 && ib <=440) {keyUP=1; } else {keyUP=0; }// key up  
+  if (keycount == 5 &&ib>=240 && ib <=242) {keyACK=1; } else {keyACK=0; }// key ack / Enter
 
-  if (keycount == 5 &amp;&amp;ib&gt;=193 &amp;&amp; ib &lt;=195) {keyESC=1; } else {keyESC=0; }// key Esc
-  if (keycount == 5 &amp;&amp;ib&gt;=119 &amp;&amp; ib &lt;=121) {keyCFG=1; } else {keyCFG=0; }// key CFG system
+  if (keycount == 5 &&ib>=193 && ib <=195) {keyESC=1; } else {keyESC=0; }// key Esc
+  if (keycount == 5 &&ib>=119 && ib <=121) {keyCFG=1; } else {keyCFG=0; }// key CFG system
 
-  if (keycount &gt; 30 ) {keycount=0; } // repeat time key pressed
-  if (ib &lt; 1000) {keycount++; } else {keycount=0; }// key press = 0  
+  if (keycount > 30 ) {keycount=0; } // repeat time key pressed
+  if (ib < 1000) {keycount++; } else {keycount=0; }// key press = 0  
 
 }
 
 //end sketch ArduinoMemory Reminder By Giuseppe G. (FABLAB Torino)
 
-</code></pre>
-</div>
-<hr />
-<p>Bugs da sistemare:</p>
+```
+___________________________________________________________________________________________
+Bugs da sistemare:
 
-<p>“Al momento nessuno”</p>
-
-<p>ELENCO RELEASE / INFO FIRMWARE ArduoMemoryReminder per hardware R.1.0:</p>
-
-<p><strong>**</strong>  IN LAVORAZIONE <strong>**</strong></p>
-
-                  </p>
-                  
-                </div>
-              </div>
-              <hr>
-          </div>
-        
-      </div>  
-    </div>
+“Al momento nessuno”
 
 
-    </main>    
 
-    <div class="container" align="center">
-      <hr>
-      <footer> 
-            <p>
-            <br>
-            <strong>FABLAB TORINO</strong>
-            </p>
-            <p>
-            <a href="https://www.facebook.com/fablabtorino"> Facebook </a>
-            &#8226
-            <a href="https://twitter.com/Fablabtorino"> Twitter </a>
-            &#8226
-            <a href="https://github.com/FablabTorino">Github</a>
-            &#8226
-            <a href="https://www.fablabs.io/labs/fablabtorino"> Fablabs.io</a>
-            </p>
-            <p>
-            via Egeo 16, 10134 Torino<br>
-            C.F. 97754320014<br>
-            </p>
-      </footer>
-</div>
+ELENCO RELEASE / INFO FIRMWARE ArduoMemoryReminder per hardware R.1.0:
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="/fablabtorino-site/js/bootstrap.min.js"></script>
-  </body>
-</html>
+******  IN LAVORAZIONE ******
