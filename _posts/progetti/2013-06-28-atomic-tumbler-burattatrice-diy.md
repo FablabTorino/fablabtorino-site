@@ -13,7 +13,7 @@ copertina: ![atomict] atomict.jpg
 Atomic Tumbler-Burattatrice DIY
 
 <iframe src="https://www.youtube.com/6n8QxyOTFD4" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://www.youtube.com/watch?v=6n8QxyOTFD4">atomic-tumbler</a> from <a href="https://www.youtube.com/fablabtorino">FablabTorino</a> on <a href="https://www.youtube.com">Yuotube</a>.</p>
+<p><a href="https://www.youtube.com/watch?v=6n8QxyOTFD4">atomic-tumbler</a> video
 
 
 Atomic tumbler è una macchina per la burattatura realizzata tramite taglio laser e stampa 3d, per ottenere pezzi levigati al di fuori della produzione industriale.
