@@ -19,7 +19,7 @@ The framework used was based entirely on Processing for the Wikipedia pages anal
 
 ## How it works
 <iframe src="https://vimeo.com/52995677" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/52995677">atomic-tumbler</a> video
+<p><a href="https://vimeo.com/52995677">OSArc Manifesto</a> video
 
 
 ## Photos
