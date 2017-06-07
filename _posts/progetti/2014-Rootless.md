@@ -20,7 +20,6 @@ This design is very resistant and durable thanks to the fiber direction and the 
 
 We don't want to scale to mass production, but stay focused on the quality of the products. Thats why we select our customers as well, to build together something really unique that must fit perfectly.
 
-<!--more-->
 
 ![Root1](https://static.wixstatic.com/media/530146_aa172c75ed68425abb265b2355d27fea.jpg/v1/fill/w_1052,h_701,al_c,q_90,usm_0.66_1.00_0.01/530146_aa172c75ed68425abb265b2355d27fea.webp)
 
