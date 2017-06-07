@@ -1,13 +1,13 @@
 ---
 layout: centrale
-title:  "Chaiselounge"
+title:  "Boombox"
 published: true
 categories: progetti
-tags: design, lasercut, pietroleoni,
-sito: http://pietroleoni.com/#chaiselounge
-autori: Pietro Leoni
-copertina: http://pietroleoni.com/wp-content/uploads/2014/02/big_384423_2012_auto-4-1.jpg
+tags: design, lasercut, AudioHacklab, audio, boombox, stereo
+autori: Loder Taucher, Stefano Paradiso, Federico Vanzati
+copertina: ![immagine boombox](boombox.jpg)
+
 ---
-## Chaiselounge
-by Pietro Leoni
-[Website](http://pietroleoni.com/#chaiselounge)
+## Boombox
+by Loder Taucher, Stefano Paradiso, Federico Vanzati
+[Download](http://fablabtorino.org/wp-content/uploads/bOOMbOX.7z)
