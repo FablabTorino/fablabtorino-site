@@ -1,6 +1,6 @@
 ---
 layout: centrale
-title:  "IKEA Nordli hack"
+title:  "toolChairk"
 published: true
 categories: progetti
 tags: Pietro Leoni, pietroleoni, furniture, chair, flexiblewood, design
