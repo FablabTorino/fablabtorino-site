@@ -9,6 +9,7 @@ tags: stefanoparadiso, design, Fixing, fixing-machine
 sito: https://stefanoparadiso.wordpress.com/2013/05/22/fixing-machine/
 autori: Stefano Paradiso, Enrico Bassi
 copertina: https://stefanoparadiso.files.wordpress.com/2013/05/img_01.jpg?w=710&h=348
+meta: La fixing machine è un sistema semplice per consentire a chiunque di stampare dei piccoli cerotti in plastica con cui "curare gli oggetti malati"
 ---
 La fixing machine è un sistema semplice per consentire a chiunque di stampare dei piccoli cerotti in plastica con cui "curare gli oggetti malati" quando qualcosa si rompe è solitamente difficile ripararla in modo robusto, anche perché spesso non sono progettati né per durare, nè per essere riparati, questi cerotti colorati non solo rinforzano le linee di rottura, ma servono anche a raccontare che quel pezzo è stato riparato, per renderlo visibile, senza vergognarsi della volontà di non buttare via per riacquistarne uno nuovo. Le cose che decidi di riparare diventano uniche e tue, come quando si adotta qualcosa che è stato abbandonato.
 

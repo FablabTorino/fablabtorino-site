@@ -9,6 +9,7 @@ tags: [DIY, lasercut, 3dprint]
 sito:
 autori: Ambra Pisati, Maria Laura Sala
 copertina: ![atomict] <img src="/img/atomict.jpg" alt="Tracco" width="500" height="333">
+meta: Atomic tumbler è una macchina per la burattatura realizzata tramite taglio laser e stampa 3d, per ottenere pezzi levigati al di fuori della produzione industriale.
 
 ---
 **Atomic Tumbler-Burattatrice DIY**

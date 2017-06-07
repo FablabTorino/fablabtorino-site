@@ -9,6 +9,8 @@ tags: [technology, plotter]
 sito: pietroleoni.com/#osarc-manifesto
 autori: Pietro Leoni
 copertina: ![pietroplotter]<img src="/img/pietroplotter.jpg" alt="Tracco" width="500" height="333">
+meta: OSArc Manifesto is an installation created as an intermediary between the physical and the digital dimension.
+Developed in close collaboration between Carlorattiassociati and Fablab Torino, it was part of the Adhocracy exhibition curated by Joseph Grima for the Istanbul Design Biennial.
 
 ---
 **OSArc Manifesto**

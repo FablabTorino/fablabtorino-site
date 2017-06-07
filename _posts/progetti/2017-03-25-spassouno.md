@@ -9,5 +9,6 @@ tags: fablabforkids educational
 sito: https://github.com/OfficineArduinoTorino/spassouno-py
 autori: Davide Gomba
 copertina: http://placehold.it/300x300
+meta: Uno speciale tavolo da riprese per creare cortometraggi animati con la tecnica dell’animazione stop-motion
 ---
 Uno speciale tavolo da riprese per creare cortometraggi animati con la tecnica dell’animazione stop-motion.<!--more-->

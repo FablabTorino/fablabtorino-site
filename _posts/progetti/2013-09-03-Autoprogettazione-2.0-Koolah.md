@@ -7,6 +7,7 @@ categories: progetti
 permalink: ../koolah
 tags: jordipobet, design, redesign, Autoprogettazione, enzomari, furniture,
 autori: Jordi Pobet
+meta: Koolah cerca di semplificare un oggetto complesso come la lampada, prendendo "Autoprogettazione"di Enzo Mari, come riferimento
 
 # Autoprogettazione 2.0: Koolah
 

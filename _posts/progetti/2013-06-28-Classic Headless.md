@@ -9,6 +9,8 @@ tags: [DIY,guitar, music]
 sito:
 autori: Enrico Bassi
 copertina: http://fablabtorino.org/wp-content/uploads/Chitarra.jpg
+meta: Questo è un esempio di riparazione possibile per una chitarra classica a cui si sono rotte le chiavi.
+
 ---
 Questo è un esempio di riparazione possibile per una chitarra classica a cui si sono rotte le chiavi.
 

@@ -9,6 +9,7 @@ tags: [arduino, educational]
 sito:
 autori: Giuseppe Graziani
 copertina: ArduMemory1.jpg
+meta: Il progetto base, prevede la costruzione di un device di semplice comprensione ed utilizzo, al fine di aiutare le persone bisognose a ricordare le assunzioni delle medicine giornaliere.
 ---
 Ardu Memory Reminder
 Ultima Release del firmware: in aggiornamento  per l’ hardware R.1.0

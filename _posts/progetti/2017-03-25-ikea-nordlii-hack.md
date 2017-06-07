@@ -9,6 +9,7 @@ tags: giovannibindi, design, lasercut
 sito: http://tongatron.it/IKEA-Nordli-hack/
 autori: Giovanni Bindi
 copertina: https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/gh-pages/img/cassetto2.jpg
+meta: A simple hack for IKEA Nordli modular drawer chest - each drawer can hide an useful table.
 ---
 A simple hack for IKEA Nordli modular drawer chest: each drawer can hide an useful table. Follow the instruction and make your own by laser cutting a wood panel<!--more-->
 
@@ -55,9 +56,8 @@ You’re done!
 
 ---
 
-MADE IN 
+MADE IN
 
 ![Fablab Torino](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/gh-pages/img/fablabtorino.jpg)
 
 [fablabtorino.org](http://fablabtorino.org/)
-

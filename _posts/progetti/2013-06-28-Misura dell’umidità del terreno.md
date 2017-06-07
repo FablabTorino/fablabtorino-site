@@ -9,6 +9,7 @@ tags: [DIY]
 sito:
 autori: Franco Magni
 copertina: https://www.google.it/search?q=misura+dell%27umidit%C3%A0+del+terreno&client=firefox-b&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjMwsD3savUAhVMExoKHUrODV8Q_AUICygC&biw=1920&bih=947#imgrc=U-Cn-iY21AIHLM.jpg
+meta: Si identifica una delle opzioni, in ambito DIY, per misurare l'umidità dei suoli ad uso agricolo e sperimentale. 
 ---
 # Misura dell’umidità del terreno – la ricerca
 ## Discesa nel mondo delle radici
