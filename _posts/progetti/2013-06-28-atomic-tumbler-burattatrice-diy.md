@@ -8,9 +8,10 @@ categories: progetti
 tags: [DIY, lasercut, 3dprint]
 sito:
 autori: Ambra Pisati, Maria Laura Sala
-copertina: ![atomict] atomict.jpg
+copertina: ![atomict] <img src="/img/atomict.jpg" alt="Tracco" width="500" height="333">
+
 ---
-Atomic Tumbler-Burattatrice DIY
+**Atomic Tumbler-Burattatrice DIY**
 
 <iframe src="https://www.youtube.com/6n8QxyOTFD4" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://www.youtube.com/watch?v=6n8QxyOTFD4">atomic-tumbler</a> video
