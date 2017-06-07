@@ -1,0 +1,29 @@
+---
+layout: centrale
+title:  "Rootless"
+date:   
+published: true
+categories: progetti
+permalink:
+tags: [DIY,wood, bike]
+sito: http://rootless.tk/
+autori: Enrico Bassi
+copertina: https://static.wixstatic.com/media/530146_eaf2bab119534d9da04442a5f9a0ee0c.jpg/v1/fill/w_1052,h_701,al_c,q_90,usm_0.66_1.00_0.01/530146_eaf2bab119534d9da04442a5f9a0ee0c.webp
+---
+Wood is an amazing "high performance" material. it's the first composite used by humanity and it's easy to work with CNC machines.
+
+We choose sustainable and certified materials, because we believe that the best approach is to know the needs and satisfy them locally.
+
+The frame is entirely made using a CNC router, small details are in lasercut plywood, and we are working on 3D printed accessories.
+
+This design is very resistant and durable thanks to the fiber direction and the joints geometry. The material used guarantees a good repairability and personalization.
+
+We don't want to scale to mass production, but stay focused on the quality of the products. Thats why we select our customers as well, to build together something really unique that must fit perfectly.
+
+<!--more-->
+
+![Root1](https://static.wixstatic.com/media/530146_aa172c75ed68425abb265b2355d27fea.jpg/v1/fill/w_1052,h_701,al_c,q_90,usm_0.66_1.00_0.01/530146_aa172c75ed68425abb265b2355d27fea.webp)
+
+![Root2](https://static.wixstatic.com/media/530146_fe121b46d35046fbb7d344a1f820861e.jpg/v1/fill/w_1052,h_701,al_c,q_90,usm_0.66_1.00_0.01/530146_fe121b46d35046fbb7d344a1f820861e.webp)
+
+![Root3](https://static.wixstatic.com/media/530146_4ee7d0e4e5b74a2fb91f865c6c4c4c5d.jpg/v1/fill/w_1052,h_701,al_c,q_90,usm_0.66_1.00_0.01/530146_4ee7d0e4e5b74a2fb91f865c6c4c4c5d.webp)
