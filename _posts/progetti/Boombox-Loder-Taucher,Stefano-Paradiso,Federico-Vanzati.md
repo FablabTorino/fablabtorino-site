@@ -1,0 +1,13 @@
+---
+layout: centrale
+title:  "Boombox"
+published: true
+categories: progetti
+tags: design, lasercut, AudioHacklab, audio, boombox, stereo
+autori: Loder Taucher, Stefano Paradiso, Federico Vanzati
+copertina: ![immagine boombox](boombox.jpg)
+
+---
+## Boombox
+by Loder Taucher, Stefano Paradiso, Federico Vanzati
+[Download](http://fablabtorino.org/wp-content/uploads/bOOMbOX.7z)
