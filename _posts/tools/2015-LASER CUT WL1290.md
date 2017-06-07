@@ -1,0 +1,23 @@
+---
+layout: centrale
+title:  LASER CUT WL1290 - Matilda
+date:   
+categories: corsibase
+immagine: http://fablabtorino.org/wp-content/uploads/laserone.jpg
+Work Area: 1200X900X500mm
+Potenza: 120W Co2
+Materiali: organici e plastici, no metallici
+Formato: .dxf, .jpg; .png
+Uso: su prenotazione
+Costo: 1credito/min
+Tutorial: http://fablabtorino.org/wp-content/uploads/Tutorial-Lasercut.pdf
+Anno:
+Proprietà:
+Link: http://www.ricami.piemonte.it/404.asp#.VH3j0jGG9-4 
+---
+
+Vuoi imparare ad usare le nostre laser cut? Al Fablab Torino organizziamo workshop gratuiti per i suoi associati per spiegare tutto quello che c'è da sapere su come si taglia al laser con i nostri macchinari presenti in laboratorio.
+<!--more-->
+In un'ora e mezza imparerai le basi pratiche del taglio laser facendo i primi passi nel mondo della fabbricazione digitale. Al termine del worskhop sarai abilitato all'utilizzo del macchinario, e sarai anche libero di prenotarlo negli orari per associati e realizzare i tuoi progetti!
+
+NB. Per partecipare è necessario essere tesserati al Fablab.

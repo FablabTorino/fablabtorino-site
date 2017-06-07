@@ -13,7 +13,7 @@ copertina: https://static.wixstatic.com/media/530146_eaf2bab119534d9da04442a5f9a
 Wood is an amazing "high performance" material. it's the first composite used by humanity and it's easy to work with CNC machines.
 
 We choose sustainable and certified materials, because we believe that the best approach is to know the needs and satisfy them locally.
- 
+
 The frame is entirely made using a CNC router, small details are in lasercut plywood, and we are working on 3D printed accessories.
 
 This design is very resistant and durable thanks to the fiber direction and the joints geometry. The material used guarantees a good repairability and personalization.
