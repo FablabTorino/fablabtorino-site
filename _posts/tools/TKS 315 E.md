@@ -20,4 +20,4 @@ Vuoi imparare ad usare le nostre seghe circolari? Al Fablab Torino organizziamo 
 <!--more-->
 In un'ora e mezza imparerai le basi pratiche dell'uso della sega circolare, facendo i primi passi nel mondo della fabbricazione digitale. Al termine del worskhop sarai abilitato all'utilizzo del macchinario, e sarai anche libero di prenotarla negli orari per associati e realizzare i tuoi progetti!
 
-NB. Per partecipare è necessario essere tesserati al Fablab.
+NB. Per partecipare è necessario essere tesserati al Fablab. 

@@ -20,4 +20,4 @@ Vuoi imparare ad usare i nostri cutter plotter? Al Fablab Torino organizziamo wo
 <!--more-->
 In un'ora e mezza imparerai le basi pratiche del taglio plotter facendo i primi passi nel mondo della fabbricazione digitale. Al termine del worskhop sarai abilitato all'utilizzo del macchinario, e sarai anche libero di prenotarla negli orari per associati e realizzare i tuoi progetti!
 
-NB. Per partecipare è necessario essere tesserati al Fablab.
+NB. Per partecipare è necessario essere tesserati al Fablab. S
