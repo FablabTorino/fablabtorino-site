@@ -4,7 +4,7 @@ title:  Vuoi guadagnare dei crediti?
 date:   2013-05-31 10:00:00 -0600
 categories: appuntamenti
 immagine: scope-735x150.jpg
-tag:
+tag: [crediti]
 ---
 Non tutti sanno che per incrementare i propri crediti si possono fare attività alternative all'interno del fablab.
 
