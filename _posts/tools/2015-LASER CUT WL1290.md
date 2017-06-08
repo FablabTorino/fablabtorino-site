@@ -13,7 +13,7 @@ Costo: 1credito/min
 Tutorial: http://fablabtorino.org/wp-content/uploads/Tutorial-Lasercut.pdf
 Anno:
 Proprietà:
-Link: http://www.ricami.piemonte.it/404.asp#.VH3j0jGG9-4 
+Link: http://www.ricami.piemonte.it/404.asp#.VH3j0jGG9-4
 ---
 
 Vuoi imparare ad usare le nostre laser cut? Al Fablab Torino organizziamo workshop gratuiti per i suoi associati per spiegare tutto quello che c'è da sapere su come si taglia al laser con i nostri macchinari presenti in laboratorio.
