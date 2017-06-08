@@ -21,6 +21,7 @@ La grande forza del Fablab Torino è la varietà di competenze dei suoi associat
 
 Gli interessi del gruppo di BE.IN.TO spaziano in diverse attività che partono con le attività **base** per scoprire il mondo del BioHacking; un viaggio tra le esperienze in giro per il mondo con esperimenti pratici. Poi ci sono delle attività di **progettazione e design** per ricercare applicazioni alternative tra design e sperimentazione. **Hardware e strumentazione** da laboratorio per capire in che modo la digital fabrication permette di supportare la ricercare scientifica. Infine discussioni attorno ai temi di **Bio commons, etica e creazione di protocolli di ricerca** con l’obbiettivo di rendere effettivo il valore scientifico dal movimento agli occhi della ricerca tradizionale.  
 
+
 Hei! Il gruppo BE.IN.TO ha anche una pagina [Facebook](https://www.facebook.com/be.into.7?fref=ts) e un [blog personale](http://biohackingexperience.tumblr.com/)! Seguili per rimanere sempre aggiornato sulle loro attività!
 
 **E’ online la newsletter del mese!**
