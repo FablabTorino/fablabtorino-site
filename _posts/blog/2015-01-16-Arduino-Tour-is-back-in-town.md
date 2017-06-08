@@ -6,7 +6,7 @@ categories:   Arduino
 AUG Torino
 Events
 Workshop
-immagine: ARDUINO_TOUR_TO.jpg
+immagine: fabbuchevole_banner-03.png
 tag: [AUG], [arduino], [ARDUINO_TOUR_TO]
 ---
 ***ARDUINO TOUR IS BACK IN TOWN***
