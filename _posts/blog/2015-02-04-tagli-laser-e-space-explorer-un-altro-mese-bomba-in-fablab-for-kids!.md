@@ -24,4 +24,4 @@ Le iscrizioni a Fab Buchevole chiudono venerdì 13 febbraio alle 12 quindi se si
 **Domenica 15 febbraio** invece è la volta di una new entry che speriamo vi piaccia: [Fab Kids in Space](https://www.eventbrite.it/e/biglietti-fab-4-kids-in-space-15-febbraio-15455152778)! _Due ore, merenda compresa, alla scoperta del Sistema Solare: quant'è grande la Terra rispetto alla Luna? e agli altri pianeti? Quant'è distante da Marte? Saresti in grado di far atterrare un'astronave sul nostro satellite?_ Se tuo figlio conosce Samantha Cristoforetti meglio dei suoi compagni di classe e non fa che chiederti dettagli su Philae, Rosetta e su un asteroide chiamato 67P/Churyumov-Gerasimenk, non fargli guardare Focus che gli confonde solo le idee ma portalo a _**Fab Kids in Space.**_
 
 _**Per questo mese è tutto. Io passo e chiudo, tu passa da Fablab for Kids.**
-Vuoi più informazioni? Le puoi trovare proprio QUI._
+Vuoi più informazioni? Le puoi trovare proprio [QUI](http://fablabtorino.org/eventi/)._
