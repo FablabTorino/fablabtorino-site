@@ -14,7 +14,7 @@ twitter:
 vimeo:
 instructables:
 youtube:
-copertina: "http://robottino.cc/img/robottino-stardust-600x600.jpg"
+copertina: http://robottino.cc/img/robottino-stardust-600x600.jpg
 meta: Robottino è un robot programmabile la scheda Arduino sulla schiena consente di personalizzare i comportamenti e le intereazioni.
 ---
 Robottino è un robot programmabile la scheda Arduino sulla schiena consente di personalizzare i comportamenti e le intereazioni.

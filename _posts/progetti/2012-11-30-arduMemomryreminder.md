@@ -8,7 +8,7 @@ categories: progetti
 tags: [arduino, educational]
 sito:
 autori: Giuseppe Graziani
-copertina: ArduMemory1.jpg
+copertina: https://github.com/FablabTorino/fablabtorino-site/blob/master/img/ArduMemory1.jpg
 meta: Il progetto base, prevede la costruzione di un device di semplice comprensione ed utilizzo, al fine di aiutare le persone bisognose a ricordare le assunzioni delle medicine giornaliere.
 ---
 Ardu Memory Reminder
