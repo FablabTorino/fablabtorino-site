@@ -1,14 +1,23 @@
 ---
 layout: centrale
-title: ON/OFF BUILD YOUR FIRST DIY LAMP
-date:   2015-12-02 09:04:00 -0600
-categories: 3D printing, Arduino, Casa Jasmina, DIY, electronics, events, news, Uncategorized, Workshops
-immagine: ws_onoff_facebook_trac-01.png
-tag: [FablabTO,PrintClubTO,lamp, making, DIY, workshop, serigrafia]
+title: NOME IN CODICE: SWEE’PEA
+date:   2015-02-06 09:04:00 -0600
+categories: News, Robotic Arm, Uncategorized
+immagine: blog_braccio.jpg
+tag: [arm, comau, development, experimentation, research, robot, robotic, roboticarms, tech, technology]
 ---
-<img src="/img/blog/ws_onoff_facebook_trac-01.png" width="500" height="333">
-**ON/OFF - DIY LAMP**  
-**_Arriva il primo evento organizzato in collaborazione tra il Print Club Torino e il Fablab Torino, ne vedremo delle belle!_**    
-Ci siamo appena conosciuti ma siamo certi che in futuro ne vedremo delle belle dalla collaborazione con il neo nato Print Club Torino. Per iniziare alla grande abbiamo organizzato un primo workshop dove i partecipanti potranno realizzare da soli la loro prima personalissima lampada DIY con gli strumenti del Fablab Torino per poi personalizzarla con gli strumenti serigrafici del [Print Club Torino](http://www.printclubtorino.it/it) ____
+<img src="/img/blog/blog_braccio.jpg" width="500" height="333">
+**WELCOME HOME SWEE'PEA!**  
+**_UN GRANDE BENVENUTO AL "PICCOLO" ARRIVATO IN CASA FABLAB._**    
+L'obbiettivo del Fablab Torino dell'ultimo anno è stato quello di ricercare contaminazioni dall'esterno, così da arrivare a nuovi livelli di sperimentazione; ieri questo obbiettivo è diventato un pò più vicino dopo l'arrivo del nostro primo braccio robotico made in Comau.
+_Il braccio, **nome in codice "Swee'Pea"**, prende il nome dal nipotino di braccio di ferro, essendo quello del Fablab uno dei piccoli della famiglia Comau._
 
-[Tweet](https://twitter.com/share)
+_Il **progetto DigiFABturing**_ è frutto di una collaborazione che vede diversi partner: [Officine Arduino](http://local.arduino.cc/torino/) e la stessa Comau insieme a Toolbox Coworking e Co-de-iT; insieme collaboreremo nella sperimentazione tra Digital Fabrication e automazione applicata all'architettura, all'interaction design ma anche all'arte; il tutto cercando di capire in che modo settori tanto diversi possano coesistere contaminandosi a vicenda, scoprendo nuovi ambiti su cui basare la ricerca.
+
+Il team che ci lavorerà sarà super multidisciplinare spaziando dai membri del Fablab con formazione maker fino ad arrivare a quella tecnica dello staff di Officine Arduino con il supporto di specialisti nel settore del computational design come **Andrea Graziano** di Co-de-iT che fin dall'inizio si è occupato dell'organizzazione del progetto assieme a **Stefano Paradiso**, coordinatore del Fablab e **Davide Gomba**, CEO di Officine Arduino.
+
+_Ora ci aspetta un sacco di lavoro da portare avanti, sperimentazioni da iniziare e progetti da sviluppare; bando alla ciance, mettiamoci all'opera!_
+
+_Un grazie a tutte le persone che hanno fatto parte di questo progetto:
+Massimo Ippolito, Alessandro Guzzon, Stefano Zoppi, Marco Durando e Massimo Menon di COMAU
+Aurelio Balestra di Toolbox Coworking, Andrea Graziano di Co-de-iT, Stefano Paradiso e Davide Gomba di Officine Arduino._
