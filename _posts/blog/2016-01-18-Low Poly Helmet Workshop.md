@@ -1,6 +1,6 @@
 ---
 layout: centrale
-title:Low Poly Helmet Workshop
+title: Low Poly Helmet Workshop
 date:   2016-01-18
 categories: Contest, DIY, Events, Lasercut, News, Uncategorized, Workshop
 immagine: LowPoly.jpg
