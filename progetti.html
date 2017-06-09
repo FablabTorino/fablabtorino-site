@@ -9,13 +9,15 @@ title: Fablab Torino
         {% for post in site.categories.progetti %}
           <div class="col-md-4">
               <div class="media">
-                <div class="media-left">
-                  <a href="#">
-                    <img src="{{ post.copertina }}" style="max-height: 100px; max-width: 100px;">
+                  <a href="{{site.baseurl}}{{ post.url }}">
+                    {% if post.copertina contains 'http' %}
+                    <img src="{{ post.copertina}}" style="max-height: 200px; max-width: 100%;">
+                    {% else %}
+                    <img src="{{site.baseurl}}/img/{{ post.copertina }}" style="max-height: 200px; max-width: 100%;">
+                    {% endif %}
                   </a>
-                </div>
                 <div class="media-body">
-                  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+                  <h4><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h4>
                   <p>
                   {{ post.meta }}
                   </p>
