@@ -8,7 +8,7 @@ permalink: ../box-per-minuteria-o-elettronica/
 tags: [box, DIY, lasercut, wood]
 sito: https://www.thingiverse.com/thing:19768
 autori: Enrico Bassi
-copertina: http://fablabtorino.org/wp-content/uploads/box.jpg
+copertina: boxminuteria.jpg
 meta: Progetto per realizzare box che possano essere appesi ad una rastrelliera fissa e sfilati quando necessario.
 
 ---
