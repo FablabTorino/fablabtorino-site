@@ -2,7 +2,7 @@
 layout: centrale
 title:  "BE.IN.TO"
 date:   2016-12-31 10:00:00 -0600
-categories: communities appuntamenti
+categories: communities
 permalink: ../be-in-to/
 referente:  Riccardo Castagna, rccrdcstgn@gmail.com
 immagine: http://fablabtorino.org/wp-content/uploads/Beinto_Banner_989x289.jpg
