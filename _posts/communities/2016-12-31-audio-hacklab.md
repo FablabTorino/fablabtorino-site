@@ -19,6 +19,7 @@ Circuiti e sperimentazione musicale.
 
 L’**Audio Hacklab** è un gruppo di amanti della musica, alcuni esperti, altri sognatori, accomunati dalla passione per l’audio. L’obiettivo del nostro gruppo è quello di sperimentare nuove forme di produzione musicale, passando dall’hacking di strumenti esistenti alla creazione di nuove macchine sonore, grazie al supporto dell’elettronica e delle nuove tecnologie digitali di fabbricazione. **Il nostro gruppo nasce dentro e fuori il Fablab Torino** ed è spinto dalla passione per l’autoproduzione e la sperimentazione elettronica e dalla voglia di condividere conoscenze e ottenere aiuto o ispirazione dagli altri partecipanti.
 
+
 Gli incontri di Audio Hacklab sono un punto di riferimento per la produzione di nuovi modi di fare musica, ricerca e spettacolo. Potete unirvi al gruppo **il primo e il terzo mercoledì di ogni mese dalle 19:00 in poi!**
 
 Hei! Il gruppo del Audio HackLab ha anche una pagina [Facebook](https://www.facebook.com/audiohacklab?fref=ts) e un [sito personale](http://audiohacklab.org/)! Seguili per rimanere sempre aggiornato sulle loro attività!

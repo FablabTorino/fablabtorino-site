@@ -22,6 +22,7 @@ Digifacturing rises from a collaboration between several partners: Fablab Torino
 
 every step will be conceived in order to understand how can, so many different fields of applications, actually co-exhist and evolve, through a process of mutual contamination. Here we wish to discover new landscapes of experimentation offering a different perspective about the world of design for research.
 
+
 The multidisciplinary team that will actually work with the robot will be composed by several professionals: some with a “maker” background, others more technical from the fields of electronics and computational design. Now a lot of work is waiting for us to start; several are the experiments to test and projects to develop and we cannot see the time projects will be finally real.
 
 # PROJECTS
