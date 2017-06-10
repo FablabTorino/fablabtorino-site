@@ -2,9 +2,9 @@
 layout: centrale
 title:  Halloween Monster's Cookies
 date:   2014-10-24
-categories: appuntamenti
+categories: blog
 immagine: HalloweenWorkshop-02-01-1024x512.jpg
-tag: [3d], [3dprinting], [Arduino]
+tag: [3d , 3dprinting, Arduino]
 ---
 **Halloween e ancora una volta il Fablab ci mette lo zampino!**
 

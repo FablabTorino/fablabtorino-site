@@ -2,7 +2,7 @@
 layout: centrale
 title:  It's almost MFR14 time!
 date:   2014-10-02
-categories: appuntamenti
+categories: blog
 immagine: altro_bannerBLOGFAB.jpg
 tag: [3d], [modellazione], [shapesmith]
 ---

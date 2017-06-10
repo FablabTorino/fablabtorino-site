@@ -2,10 +2,9 @@
 layout: centrale
 title:  La "O" sta sempre per Open!
 date:   2014-11-05
-categories:  Events
-Interviste
+categories:  blog
 immagine: OPENDAY_BANNER-01.png
-tag: [Open], [open-source]
+tag: [Open , open-source]
 ---
 **Al Fablab siamo sempre più open!**
 

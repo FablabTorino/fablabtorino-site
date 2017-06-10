@@ -2,7 +2,7 @@
 layout: centrale
 title:  High five AUG
 date:   2014-11-03
-categories: Events, Interviste, Workshop
+categories: blog
 immagine: cassa-fablab.jpg
 tag: [fablabtorino]
 ---

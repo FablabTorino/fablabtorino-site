@@ -2,9 +2,9 @@
 layout: centrale
 title:  High five AUG
 date:   2014-10-27
-categories:  Arduino AUG Torino Events Workshop
+categories:  blog
 immagine: AUG-01.jpg
-tag: [Arduino] [AUG]
+tag: [Arduino, AUG]
 ---
 **AUG Torino è arrivato al suo quinto mese e non ha intenzione di fermarsi!**
 

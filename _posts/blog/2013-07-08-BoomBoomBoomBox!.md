@@ -2,7 +2,7 @@
 layout: centrale
 title:  BoomBoomBoomBox!
 date:   2013-07-08
-categories: appuntamenti
+categories: blog
 immagine: boombox.jpg
 tag: [lasercut], [audiohacklab], [audio], [boombox], [workshop]
 ---

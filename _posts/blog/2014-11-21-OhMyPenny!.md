@@ -2,11 +2,8 @@
 layout: centrale
 title:  OhMyPenny!
 date:   2014-11-21
-categories: appuntamenti
-Events
-Lasercut
-Workshop
-tag: [ohmyLong], [skate], [workshop],
+categories: blog
+tag: [ohmyLong , skate , workshop]
 ---
 ***OhMyPenny!***
 

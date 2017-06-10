@@ -2,12 +2,9 @@
 layout: centrale
 title:  Folding Backpack Workshop
 date:   2014-12-23
-categories: DIY
-Events
-Lasercut
-Workshop
+categories: blog
 immagine: folding_post-01.jpg
-tag: [DIY], [workshop], [Backpack], [Guerrilla], [GuerrillaFreelancer]
+tag: [DIY , workshop , Backpack , Guerrilla , GuerrillaFreelancer]
 ---
 ***FOLDING BACKPACK Workshop
 20-22 Gennaio***

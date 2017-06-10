@@ -2,10 +2,8 @@
 layout: centrale
 title:  Music in a boom boom boombox!
 date:   2014-11-19
-categories:
-Events
-Workshop
-tag: [workshop], [audiohacklab], [boombox], [lasercut], [audio], [sound]
+categories: blog
+tag: [workshop , audiohacklab , boombox ,  lasercut ,  audio ,  sound]
 ---
 ***Music in a boom boom boombox***
 

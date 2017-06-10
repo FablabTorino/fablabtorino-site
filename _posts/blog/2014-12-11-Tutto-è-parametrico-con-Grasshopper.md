@@ -2,9 +2,9 @@
 layout: centrale
 title:  Tutto è parametrico con Grasshopper
 date:   2014-11-03
-categories: Events, Interviste, Workshop
+categories: blog
 immagine: cassa-fablab.jpg
-tag: [fablabtorino] [3d] [Rhinoceros] [Grasshopper]
+tag: [fablabtorino , 3d , Rhinoceros , Grasshopper]
 ---
 ***Pronti al super mega workshop di Grasshopper del 12-13-14 Dicembre?***
 

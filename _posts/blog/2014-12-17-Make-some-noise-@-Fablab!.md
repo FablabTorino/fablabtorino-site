@@ -2,12 +2,9 @@
 layout: centrale
 title:  Make some noise @ Fablab!
 date:   2014-12-17
-categories:  Arduino
-DIY
-Events
-Workshop
+categories:  blog
 immagine: boombox_post.jpg
-tag: [DIY], [workshop], [AudioHackLab], [audio],
+tag: [DIY , workshop , AudioHackLab , audio]
 ---
 ***Make some noise @ Fablab!***
 

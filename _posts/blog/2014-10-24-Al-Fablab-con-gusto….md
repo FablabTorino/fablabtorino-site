@@ -2,9 +2,9 @@
 layout: centrale
 title:  Al Fablab con gusto…
 date:   2014-10-24
-categories: appuntamenti
+categories: blog
 immagine: SaloneDelGusto-1024x811.jpg
-tag: [SaloneDelGusto], [Toolbox], [fablabtorino], [Comune di Torino]
+tag: [SaloneDelGusto, Toolbox, fablabtorino, Comune di Torino]
 ---
 [SaloneDelGusto](http://www.salonedelgusto.com/it/)
 

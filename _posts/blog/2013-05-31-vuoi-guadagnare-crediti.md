@@ -2,7 +2,7 @@
 layout: centrale
 title:  Vuoi guadagnare dei crediti?
 date:   2013-05-31 10:00:00 -0600
-categories: appuntamenti
+categories: blog
 immagine: scope-735x150.jpg
 tag: [crediti]
 ---

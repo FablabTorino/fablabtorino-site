@@ -2,14 +2,11 @@
 layout: centrale
 title:  Parametric Design with Grasshopper
 date:   2014-11-11
-categories:  3D printing
-Events
-Workshop
-tag: [workshop], [3d], [3dprinting], [Rhino]
+categories:  blog
+tag: [workshop , 3d , 3dprinting , Rhino]
 ---
-***Parametric Design with Grasshopper | 12-13-14/12/2014***
 
-*Il design parametrico e generativo torna al Fablab Torino ai primi di dicembre!*  
+## Il design parametrico e generativo torna al Fablab Torino ai primi di dicembre! 
 
 Il workshop, vuole promuovere le nuove tecnologie digitali di supporto alla progettazione con l'obbiettivo di fornire ai partecipanti i fondamenti della modellazione parametrica e generativa attraverso Grasshopper il più famoso plug-in di programmazione visuale per Rhinoceros.
 

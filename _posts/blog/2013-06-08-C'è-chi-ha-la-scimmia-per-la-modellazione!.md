@@ -2,7 +2,7 @@
 layout: centrale
 title:  C'è chi ha la scimmia per la modellazione!
 date:   2013-06-08
-categories: appuntamenti
+categories: blog
 immagine: suzanne-735x1501.jpg
 tag: [3d], [modellazione], [Blender]
 ---

@@ -2,11 +2,9 @@
 layout: centrale
 title:  Workshop di Processing Livello Base
 date:   2014-12-19
-categories:
-Events
-Workshop
+categories: blog
 immagine: banner-post.jpg
-tag: [DIY], [workshop], [Processing],
+tag: [DIY , workshop, Processing]
 ---
 ***Processing with Processing!***
 

@@ -2,7 +2,7 @@
 layout: centrale
 title:  Welding Lamps Workshop
 date:   2013-08-02
-categories: appuntamenti
+categories: blog
 immagine: Welding Lamps Workshop.jpg
 tag: [DIY], [workshop], [saldaturaelettrodo],
 ---

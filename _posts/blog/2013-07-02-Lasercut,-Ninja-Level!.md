@@ -2,7 +2,7 @@
 layout: centrale
 title:  C'è chi ha la scimmia per la modellazione!
 date:   2013-07-02
-categories: appuntamenti
+categories: blog
 immagine: ninja laser.jpg
 tag: [ninja], [origami], [lasercut], [bando]
 ---

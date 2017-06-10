@@ -2,11 +2,9 @@
 layout: centrale
 title:  newsletter
 date:   2015-01-07
-categories:  Contest
-Events
-Uncategorized
+categories:  blog
 immagine: IDEAG logo.png
-tag: [newsletter], [newyear], [workshop]
+tag: [newsletter , newyear , workshop]
 ---
 ***FABLAB TORINO @ IDEAG 2015***
 
