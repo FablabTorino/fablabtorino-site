@@ -7,8 +7,8 @@ title: Fablab Torino
 
     	<div class="row">
     		<div class="col-sm-4">
-    			<h4>IMPARARE</h4>
-    			<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    			<h4>INCONTRARSI</h4>
+    			<p class="lead">L'Associazione Fablab Torino offre a tutti i suoi associati l'opportunità di apprendere processi e tecnologie legate alla prototipazione rapida, IoT e molto altro.</p>
     		</div>
     		<div class="col-sm-4">
     			<h4>SPERIMENTARE</h4>
@@ -34,10 +34,10 @@ title: Fablab Torino
     		</div>
     	</div>
     	<hr>
-    	
+
 
 		<div class="row" align="center">
-			<h1 style="font-size: 50px;font-weight: 800;color: #d7d7d7">make things, not slides</h1>
+			<h1 style="font-size: 50px;font-weight: 800;color: #d7d7d7">Meglio fatto che perfetto!</h1>
 		</div>
 		<div class="row">
     		<div class="col-sm-4">
@@ -51,21 +51,21 @@ title: Fablab Torino
     		<div class="col-sm-4">
     			<h3>Condivisione</h3>
     			<p>coprogettazione, Communites, eventi, workshop, serate</p>
-    		</div>    		
-		</div>	
+    		</div>
+		</div>
 		<hr>
 		<div class="row">
-			{% for post in site.categories.evidenza%} 
+			{% for post in site.categories.evidenza%}
 				<div class="col-sm-3">
 			    	<a href="">
-			    	<img src="{{ post.immagine }}" class="img-responsive" width="300px">	
+			    	<img src="{{ post.immagine }}" class="img-responsive" width="300px">
 			    	</a>
 			    	<p><strong>{{ post.title }}</strong><br>
 			    		{{ post.quando }}
 			    	</p>
 		    	</div>
 			{% endfor %}
-		</div>		
+		</div>
 
 		<hr>
 
@@ -78,16 +78,16 @@ title: Fablab Torino
 					<a class="btn btn-primary" href="{{site.baseurl}}/iscriviti/" role="button">Iscriviti</a>
 				</div>
 			</div>
-		</div>	
+		</div>
 
-		
+
 
       	<div class="row">
         	<div class="col-sm-4">
 				<h3 class="text-center">Appuntamenti</h3>
 				<button type="button" class="btn btn-primary btn-xs btn-block">Scopri le communites</button>
 				<h4 class="lead">Vieni a conoscere i gruppi di lavoro e unisciti ai loro progetti.</h4>
-				{% for post in site.categories.appuntamenti%} 
+				{% for post in site.categories.appuntamenti%}
 					<div class="media">
 					  <div class="media-left">
 					    <a href="{{ post.url }}">
@@ -102,14 +102,14 @@ title: Fablab Torino
 					  </div>
 					</div>
 					<hr>
-				{% endfor %}	
+				{% endfor %}
 
-			</div>        		
+			</div>
         	<div class="col-sm-4">
 			    <h3 class="text-center">Eventi</h3>
 			    <button type="button" class="btn btn-primary btn-xs btn-block">Scopri tutti gli eventi</button>
 			    <h4 class="lead">Vieni a scoprire il magico mondo dei makers.</h4>
-				{% for post in site.categories.eventi%} 
+				{% for post in site.categories.eventi%}
 					<div class="media">
 					  <div class="media-left">
 					    <a href="{{ post.url }}">
@@ -125,13 +125,13 @@ title: Fablab Torino
 					</div>
 					<hr>
 				{% endfor %}
-			    
+
         	</div>
         	<div class="col-md-4">
 			    <h3 class="text-center">Corsi</h3>
 			    <button type="button" class="btn btn-primary btn-xs btn-block">Scopri tutti i corsi</button>
 			    <h4 class="lead">Corsi base gratuti per gli iscritti e workshop.</h4>
-				{% for post in site.categories.workshop%} 
+				{% for post in site.categories.workshop%}
 					<div class="media">
 					  <div class="media-left">
 					    <a href="{{ post.iscrizione }}">
@@ -145,8 +145,8 @@ title: Fablab Torino
 					  </div>
 					</div>
 					<hr>
-				{% endfor %}			    
-			    {% for post in site.categories.corsibase%} 
+				{% endfor %}
+			    {% for post in site.categories.corsibase%}
 					<div class="media">
 					  <div class="media-left">
 					    <a href="{{ post.iscrizione }}">
@@ -169,4 +169,4 @@ title: Fablab Torino
   		<div class="container">
   			<img src="img/partners.png" class="img-responsive" width="550px">
   		</div>
-  	</div>     
+  	</div>
