@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {% include head.html %}
+</head>
+
+<body>
+
+  {% include menu.html %}
+
+  <main>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center" >
+        <div class="responsive-iframe-container big-container">
+
+      <iframe src="https://calendar.google.com/calendar/embed?title=Machines%20%40%20Fablab%20Torino&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;hl=it&amp;bgcolor=%23FFFFFF&amp;ctz=Europe%2FRome"
+        style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe> </div>
+
+      </div>
+
+      <div class="responsive-iframe-container small-container">
+        <iframe src="https://calendar.google.com/calendar/embed?title=Machines%20%40%20Fablab%20Torino&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=DAY&amp;height=600&amp;wkst=2&amp;hl=it&amp;bgcolor=%23FFFFFF&amp;ctz=Europe%2FRome"
+          style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe> </div>
+
+        </div>
+
+      <div class = "col-md-12"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe31XDryJdOEeMI-w6W6NmETMNirKajgV-kYYD9ZrXJ9L2O-g/viewform?embedded=true"
+      width="800" height="1800" frameborder="0" marginheight="0" marginwidth="0">Caricamento in corso...</iframe>      </div>
+    </div>
+
+  </main>
+
+  {% include footer.html %}
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+</body>
+
+</html>

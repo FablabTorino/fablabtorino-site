@@ -1,8 +1,8 @@
 ---
 layout: centrale
 title:  FRESA CNC mdx-40
-date:   
-categories: corsibase
+date:   2013-06-08
+categories: tools
 immagine: http://fablabtorino.org/wp-content/uploads/fresone.jpg
 Work Area: 305X305X105mm
 Utensili: multiutensili
@@ -20,4 +20,4 @@ Vuoi imparare ad usare le nostre frese? Al Fablab Torino organizziamo workshop g
 <!--more-->
 In un'ora e mezza imparerai le basi pratiche della fresatura facendo i primi passi nel mondo della fabbricazione digitale. Al termine del worskhop sarai abilitato all'utilizzo del macchinario, e sarai anche libero di prenotarla negli orari per associati e realizzare i tuoi progetti!
 
-NB. Per partecipare è necessario essere tesserati al Fablab. 
+NB. Per partecipare è necessario essere tesserati al Fablab.

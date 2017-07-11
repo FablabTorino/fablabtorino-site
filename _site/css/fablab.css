@@ -1,5 +1,8 @@
   *{
-    font-family: 'Open Sans', sans-serif;
+
+  //  font-family: 'Indie Flower', cursive;
+
+//    font-family: 'Open Sans', sans-serif;
   }
 
 	.navbar-brand {
@@ -40,7 +43,13 @@
   display: inline-block;
   float: none;
   vertical-align: top;
+  font-size: 200%;
 }
+
+  .dropdown-menu {
+  font-size: 100%;
+
+  }
 
 .navbar .navbar-collapse {
   text-align: center;
@@ -49,3 +58,36 @@
 img {
   max-width: 100%;
 }
+
+body {
+  font-family: 'Roboto', sans-serif;
+
+}
+
+@media (max-width: 550px) {
+     .big-container {
+         display: none;
+     }
+ }
+ @media (min-width: 550px) {
+     .small-container {
+         display: none;
+     }
+ }
+ /* Responsive iFrame */
+ .responsive-iframe-container {
+     position: relative;
+     padding-bottom: 56.25%;
+     padding-top: 30px;
+     height: 0;
+     overflow: hidden;
+ }
+ .responsive-iframe-container iframe,
+ .vresponsive-iframe-container object,
+ .vresponsive-iframe-container embed {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+ }

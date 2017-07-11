@@ -1,15 +1,15 @@
 ---
-layout: centraleCUTTER PLOTTER GX-24
+layout: centrale
 title:  CUTTER PLOTTER GX-24
-date:   
-categories: corsibase
+date:   2013-06-08
+categories: tools
 immagine: http://fablabtorino.org/wp-content/uploads/plotterone.jpg
 Work Area: 584X25000mm
 Utensili: lama
 Materiali: vinile, cartoncino
-Formato:  .dxf, .ai, .svg
+Formato:  dxf ai svg
 Uso: su prenotazione
-Costo: 15crediti/h I°/5cr/h dalla II°
+Costo: 15crediti/h
 Tutorial: https://www.slideshare.net/FablabItalia
 Anno:
 Proprietà:
