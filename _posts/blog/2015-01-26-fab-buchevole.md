@@ -3,7 +3,7 @@ layout: centrale
 title:  Fab buchevole
 date:   2015-01-26
 categories: [uncategorized]
-immagine: fabbuchevole_banner-03.png
+immagine: img/fabbuchevole_banner-03.png
 tag: [fablabtorino], [fabforkids]
 ---
 ***Fab Buchevole***

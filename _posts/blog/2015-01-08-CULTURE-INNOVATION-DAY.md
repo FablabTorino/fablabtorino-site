@@ -2,9 +2,7 @@
 layout: centrale
 title:  CULTURE INNOVATION DAY
 date:   2015-01-08
-categories:  Contest
-Events
-Workshop
+categories:  [Contest], [Events],[Workshop]
 immagine: Cul_Day.png
 tag: [CULTURE], [INNOVATION],
 ---

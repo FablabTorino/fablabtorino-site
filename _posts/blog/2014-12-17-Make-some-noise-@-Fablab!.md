@@ -3,7 +3,8 @@ layout: centrale
 title:  Make some noise @ Fablab!
 date:   2014-12-17
 categories:  blog
-immagine: boombox_post.jpg
+copertina: boombox_post.jpg
+meta: sound
 tag: [DIY , workshop , AudioHackLab , audio]
 ---
 ***Make some noise @ Fablab!***

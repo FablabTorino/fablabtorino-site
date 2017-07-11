@@ -3,7 +3,7 @@ layout: centrale
 title:  BoomBoomBoomBox!
 date:   2013-07-08
 categories: blog
-immagine: boombox.jpg
+immagine: img/boombox.jpg
 tag: [lasercut], [audiohacklab], [audio], [boombox], [workshop]
 ---
 Il 18 e 19 Luglio tenetevi liberi per poter partecipare al nuovo boom!box workshop made in fablab!

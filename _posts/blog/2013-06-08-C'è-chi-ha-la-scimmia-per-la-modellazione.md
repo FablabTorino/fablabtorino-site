@@ -1,4 +1,5 @@
 ---
+
 layout: centrale
 title:  C'è chi ha la scimmia per la modellazione!
 date:   2013-06-08

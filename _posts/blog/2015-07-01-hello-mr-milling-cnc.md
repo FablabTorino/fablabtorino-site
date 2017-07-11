@@ -1,7 +1,7 @@
 ---
 layout: centrale
 title: Hello Mr. MILLING CNC
-date:   2015-07-01 09:04:00 -0600
+date:   2015-07-01
 categories: Casa Jasmina, DIY, Events, MillingCNC, News, Uncategorized, Workshop
 immagine: FullSizeRender.jpg
 tag: [CasaJasmina, cutting, design, furniture, machines, milling, MillingCNC, tool, woodforbreakfast]
