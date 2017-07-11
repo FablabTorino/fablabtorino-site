@@ -11,9 +11,9 @@ title: Fablab Torino
               <div class="media">
                   <a href="{{site.baseurl}}{{ post.url }}">
                     {% if post.copertina contains 'http' %}
-                    <img src="{{ post.copertina}}" style="max-height: 200px; max-width: 100%;">
+                    <img class="img-responsive" src="{{ post.copertina}}">
                     {% else %}
-                    <img src="{{site.baseurl}}/img/{{ post.copertina }}" style="max-height: 200px; max-width: 100%;">
+                    <img class="img-responsive" src="{{site.baseurl}}/img/{{ post.copertina }}">
                     {% endif %}
                   </a>
                 <div class="media-body">
