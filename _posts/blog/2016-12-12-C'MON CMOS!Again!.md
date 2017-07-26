@@ -2,14 +2,11 @@
 layout: centrale
 title:  C’MON CMOS! Again!
 date:   2016-12-23
-categories: workshop, News
-immagine: CMOS.jpeg
+categories: blog
+copertina: CMOS.jpeg
 tag: [audio, AudioHackLab, electronics, elettronica, sonora, sperimentazione, torino, turin, workshop]
+meta: Exploring musical possibilities of cmos chips
 ---
-**C'MON CMOS! AGAIN!**
-
-***Exploring musical possibilities of cmos chips***
-
 Audio HackLab torna a grande richiesta con il laboratorio legato all’esplorazione delle
 possibilità musicali offerte dalla famiglia 4000 dei chips CMOS: circuiti integrati che
 eseguono funzioni logiche e che possono essere utilizzati per produrre, modificare e

@@ -10,13 +10,20 @@
 
     <main>
       <div class="container">
-        <div class="row">
+        <div class="col-md-12">
+          {% if post.copertina contains 'http' %}
+          <img src="{{ post.copertina}}"  align="middle" style="max-height: 100%; max-width: 100%;">
+          {% else %}
+          <img src="{{site.baseurl}}/img/blog/{{ post.copertina }}"  align="middle" style="max-height: 100%; max-width: 100%;">
+          {% endif %}
+        </a>
+      </div>
           <div class="col-md-8 col-md-offset-2">
             {{content}}
           </div>
         </div>
-      </div>
-    </main>    
+
+    </main>
 
     {% include footer.html %}
 

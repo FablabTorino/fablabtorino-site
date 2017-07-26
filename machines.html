@@ -1,0 +1,49 @@
+---
+layout: default
+title: Fablab Torino
+---
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+
+
+        <h2 style="font-size: 50px; font-weight: 800; color:#708181; ">Vuoi imparare ad usare le nostre macchine?</h4>
+        <h4>Al Fablab Torino si organizziamo workshop gratuiti per gli associati per spiegare tutto quello che c'è da sapere su come si utilizzano le macchine al taglio laser, stampanti 3D, Frese a controllo numerico o vinyl cutter presenti in laboratorio.
+        Per Poter usare o prenotare le macchine é necessario essere tesserati al Fablab. Non lo sei? <a href="{{site.baseurl}}/iscriviti/">Iscriviti!</a></h4>
+      </div>
+      <div class="col-sm-4">
+      </div>
+
+      <div class="col-sm-12" align="center">
+        <h1 style="font-size: 50px;font-weight: 800;color: #d7d7d7">Meglio fatto che perfetto!</h1>
+      </div>
+
+        {% for post in site.categories.tools %}
+          <div class="col-sm-4">
+              <div class="media">
+                  <a href="{{site.baseurl}}{{ post.url }}">
+                    {% if post.copertina contains 'http' %}
+                    <img class="img-responsive" src="{{ post.copertina}}">
+                    {% else %}
+                    <img class="img-responsive" src="{{site.baseurl}}/img/{{ post.copertina }}">
+                    {% endif %}
+                  </a>
+                <div class="media-body">
+                  <!--<h4><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h4>-->
+                  <h4>{{ post.title }}</h4>
+                  <p> Property: {{post.property}}</p>
+                  <p> Year: {{post.Anno}}  </p>
+                  <p> Use: {{post.Uso}}  </p>
+                  <p> Costo: {{ post.Costo }} </p>
+                  <a class="btn btn-primary"  href="{{site.baseurl}}/laser" role="button">Prenota!</a>
+
+                </div>
+              </div>
+              <hr>
+          </div>
+        {% endfor %}
+      </div>
+
+
+    </div>

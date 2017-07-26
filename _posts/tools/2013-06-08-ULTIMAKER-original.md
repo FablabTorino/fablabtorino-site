@@ -1,18 +1,18 @@
 ---
 layout: centrale
-title: ULTIMAKER original
+title: ULTIMAKER I
 date:   2013-06-08
 categories: tools
-immagine: http://fablabtorino.org/wp-content/uploads/ultimakerrr.jpg
+copertina: post.png
 Work Area: 200X200X200mm
 Estrusore: 3mm
 Materiali: ABS, PLA, NYLON, LAYWOOD
-Formato: .stl, .obj
+Formato: [stl, obj]
 Uso: su prenotazione
 Costo: 15crediti/h I°/5cr/h dalla II°
 Tutorial: https://www.slideshare.net/FablabItalia/130114-tutorial-3-d-printing?related=2
-Anno:
-Proprietà:
+Anno: 2011
+property: Associazione Fablab Torino
 Link: https://ultimaker.com/en/products/ultimaker-original
 ---
 

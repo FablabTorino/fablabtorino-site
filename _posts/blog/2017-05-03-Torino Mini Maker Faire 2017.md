@@ -2,13 +2,11 @@
 layout: centrale
 title:  Torino Mini Maker Faire 2017
 date:   2017-05-03
-categories: appuntamenti
-immagine: mmfpost.jpeg
+categories: blog
+copertina: mmfpost.jpg
 tag: [tommf17, tommf, makers, innovation, crafters]
+meta: Torino Mini Maker Faire sta per tornare!
 ---
-**Torino Mini Maker Faire 2017**
-
-***Torino Mini Maker Faire sta per tornare!***
 
 Per la quarta edizione, [Torino Mini Maker Faire](http://torino.makerfaire.com/) raddoppia: **sabato 27 e domenica 28 maggio** ci aspettano ben due giorni di festa dedicati alla **cultura maker** e all'**innovazione** in tutte le sue forme!
 Tanti progetti da scoprire realizzati da makers, crafters e artigiani (digitali e non), **workshop**, **laboratori per bambini**, **talk**, **mostre**, **installazioni**, **area droni**, **area food** per due giornate ricchissime che trasformeranno Toolbox e Fablab Torino in una grande fiera delle meraviglie.

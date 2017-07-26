@@ -4,12 +4,40 @@ title: Fablab Torino, corsi
 ---
 
 <div class="container">
+	<div class="col-md-6">
+<h4><b>Workshop “Hello World!”</b>: Ogni mese Fablab Torino <a href="https://www.eventbrite.it/o/fablab-torino-3147853804"><b>organizza i corsi Hello World per i nuovi iscritti</b></a> che vogliono imparare a utilizzare le <a href:"{{site.baseurl}}/machines/"><b>macchine del Fablab</a></b>.
+
+<p><p><p> Lasercut, Vinyl Cut, Fresa a controllo numerico, Stampa 3D, Elettronica base con Arduino… tutto quello che c’è da sapere per diventare un vero maker puoi impararlo qui!
+
+<p><p><p><b>I corsi sono gratuiti per i tesserati del Fablab e riprenderanno da Settembre</b>.
+</h4>
+	</div>
+
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+	<div class="col-md-6">
+		<div class="fb-page" data-href="https://www.facebook.com/fablabtorino/" data-tabs="events" data-width="1200" data-height="1000" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false">
+			<blockquote cite="https://www.facebook.com/fablabtorino/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/fablabtorino/">Fablab Torino</a></blockquote>
+		</div>
+<!--	<iframe src="https://www.eventbrite.it/calendar-widget?eid=35878459438" frameborder="0" height="700" width="1000" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe>
+-->
+</div>
+</div>
+
+
+<!--
 	<div class="row corsi">
 
 
 			<div class="col-md-4">
 				<h1>Workshops</h1>
-				{% for post in site.categories.workshop%} 
+				{% for post in site.categories.corsi%}
 					<div class="media">
 					  <div class="media-left">
 					    <a href="#">
@@ -33,7 +61,7 @@ title: Fablab Torino, corsi
 				<p>Tutti i corsi base sono gratuiti per gli iscritti e hanno come obiettivo quello di renderti indipendente
 				nell'utilizzo di qualsiasi macchina.</p>
 
-				{% for post in site.categories.corsibase%} 
+				{% for post in site.categories.corsibase%}
 					<div class="media">
 					  <div class="media-left">
 					    <a href="#">
@@ -50,11 +78,11 @@ title: Fablab Torino, corsi
 					  <hr>
 					</div>
 				{% endfor %}
-			</div>			
+			</div>
 			<div class="col-md-4">
 				<h1>Fablab for Kids</h1>
 				<button type="button" class="btn btn-info btn-xs btn-block">www.fablabforkids.it</button>
-				{% for post in site.categories.fablabforkids%} 
+				{% for post in site.categories.fablabforkids%}
 					<div class="media">
 					  <div class="media-left">
 					    <a href="#">
@@ -70,8 +98,9 @@ title: Fablab Torino, corsi
 					  <hr>
 					</div>
 				{% endfor %}
-			</div>					
+			</div>
 
-		
+
 	</div>
 </div>
+-->

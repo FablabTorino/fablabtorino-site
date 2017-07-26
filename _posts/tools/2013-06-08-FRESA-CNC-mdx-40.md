@@ -3,7 +3,7 @@ layout: centrale
 title:  FRESA CNC mdx-40
 date:   2013-06-08
 categories: tools
-immagine: http://fablabtorino.org/wp-content/uploads/fresone.jpg
+copertina: post.png
 Work Area: 305X305X105mm
 Utensili: multiutensili
 Materiali: ABS, cere, resine, legno, legno chimico, acrilici, PVC e POM
@@ -11,8 +11,8 @@ Formato: .dxf, .stl
 Uso: su prenotazione
 Costo: 15crediti/h I°/5cr/h dalla II°
 Tutorial: link
-Anno:
-Proprietà:
+Anno: 2016
+property: Officine Innesto
 Link: https://www.rolanddga.com/products/3d/mdx-40a-benchtop-cnc-mill
 ---
 

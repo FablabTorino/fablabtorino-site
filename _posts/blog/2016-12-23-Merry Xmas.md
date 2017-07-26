@@ -2,14 +2,11 @@
 layout: centrale
 title:  Merry Xmas
 date:   2016-12-23
-categories: Events, News
+categories: blog
 immagine: natale.png
 tag: [fablabtorino, fablab, natale, xmas]
+meta: Wishing you a Fab Christmas!
 ---
-**Merry Xmas da FablabTO!**
-
-***Wishing you a Fab Christmas!***
-
 Anche questo 2016 è stato un anno produttivo e pienissimo di progetti e attività qui al FablabTO... adesso però è il momento di fermarsi un attimo, riempirsi di panettone e riposarsi per iniziare il 2017 belli carichi.
 
 Per le festività **Fablab Torino resterà chiuso al pubblico** (ma aperto per i soci più inossidabili) **fino a martedì 10 gennaio**.

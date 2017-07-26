@@ -2,13 +2,11 @@
 layout: centrale
 title:  Make noise with ATtiny!
 date:   2017-04-07
-categories: appuntamenti
-immagine: 605ws-attiny2.jpeg
+categories: blog
+copertina: 605ws-attiny2.jpg
 tag: [kit, AHL, audiohacklab, attiny, DIY, electronics, events, news, workshop]
+meta: impara a produrre audio con un ATtiny85!
 ---
-
- **MAKE NOISE WITH ATtiny!**
-
 In questo workshop i partecipanti costruiranno un **generatore sonoro programmabile**, **basato sul piccolo microcontrollore [ATtiny85](http://www.microchip.com/wwwproducts/en/ATtiny85)** .
 Il microchip è ospitato su una scheda elettronica sviluppata da [Kinetik Laboratories](http://kinetiklaboratories.blogspot.it/) nel 2012
 e successivamente rilasciata come [hardware libero](https://it.wikipedia.org/wiki/Hardware_libero).

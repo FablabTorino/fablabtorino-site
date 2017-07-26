@@ -2,13 +2,11 @@
 layout: centrale
 title:  BACK IN THE DAYS!
 date:   2017-01-05
-categories: workshop, Events, News
-immagine: APC.jpeg
+categories: blog
+copertina: APC.jpg
 tag: [audiohacklab, AHL, electronics, Make, prototypes]
+meta: AudioHacklab VS Atari punk console
 ---
-**BACK IN THE DAYS!**
-
-***AudioHacklab VS Atari punk console***
 
 **Audio Hacklab** propone un workshop sulla costruzione del famoso *[Atari Punk Console](https://en.wikipedia.org/wiki/Atari_Punk_Console)*:
 *celebre generatore sonoro che grazie alla manipolazione di onde quadre riesce a creare accattivanti suoni 8 bit in pieno stile ‘80s*.

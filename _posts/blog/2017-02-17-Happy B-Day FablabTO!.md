@@ -2,13 +2,12 @@
 layout: centrale
 title:  Happy B-Day FablabTO!
 date:   2017-02-17
-categories: casa Jasmina, Events, News
-immagine: Compleanno.png
+categories: blog
+copertina: Compleanno.png
 tag: [bithday party, carnevale, casa jasmina, fablab, officine innesto]
+meta: Festeggiamo i cinque anni di Fablab Torino & Officine Innesto e i due anni di Casa Jasmina con un fantastico party, anzi, un LASERPARTY!
 ---
 **Happy B-Day FablabTO, Officine Innesto e Casa Jasmina!**
-
-***Festeggiamo i cinque anni di Fablab Torino & Officine Innesto e i due anni di Casa Jasmina con un fantastico party, anzi, un LASERPARTY!***
 
 Cinque anni sono un traguardo importante per **FablabTO** e **Officine Innesto**, e che dire della vicina del piano di sopra, **[Casa Jasmina](http://casajasmina.arduino.cc/)**, che spegne la seconda candelina?
 Bisogna festeggiare! Per questo stiamo organizzando una serata davvero speciale, una [festa di compleanno](http://bit.ly/fabbday) che è anche un po' Carnevale: taglieremo e costruiremo **maschere poligonali**, per un vero e proprio laserparty!
