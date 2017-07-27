@@ -10,17 +10,33 @@
 
     <main>
       <div class="container">
-        <div class="col-md-12">
+        <div class="col-md-6">
+          <div style="text-align: center; margin: 0 auto;">
+          <center>
           {% if post.copertina contains 'http' %}
-          <img src="{{ post.copertina}}"  align="middle" style="max-height: 100%; max-width: 100%;">
+          <img src="{{ page.copertina}}"
+          style="max-height: 100%; max-width: 100%; margin: 0 auto;">
           {% else %}
-          <img src="{{site.baseurl}}/img/blog/{{ post.copertina }}"  align="middle" style="max-height: 100%; max-width: 100%;">
+          <img src="{{site.baseurl}}/img/blog/{{page.copertina}}"
+          style="max-height: 100%; max-width: 100%; margin: 0 auto;">
           {% endif %}
+        </div>
+        </center>
         </a>
       </div>
+      <div class="col-md-6">
+
+
+
+
+      </div>
           <div class="col-md-8 col-md-offset-2">
-            {{content}}
+            {{page.content}}
+
           </div>
+
+
+
         </div>
 
     </main>

@@ -4,7 +4,7 @@ title:  "Partition"
 date:   2013-09-03
 published: true
 permalink: ../partition
-categories: progetti
+categories: altro
 tags: design, furniture, storage
 autori: Bassigny Louise
 

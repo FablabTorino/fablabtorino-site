@@ -4,10 +4,14 @@ title:  "Audio Hacklab"
 date:   2016-12-31 10:00:00 -0600
 categories: communities
 permalink: audiohacklab
-referente: Andrea Reali, a.reali@fablabtorino.org, Giacomo Leonzi, giac.leonzi@gmail.com
-immagine: https://gallery.mailchimp.com/bbd5781f8c72a1885774d98c0/images/6c8cfc57-20ed-48ca-b05d-ebc454c317df.jpg
+referente: Andrea Reali, Giacomo Leonzi
+mail: a.reali@fablabtorino.org
+copertina: https://gallery.mailchimp.com/bbd5781f8c72a1885774d98c0/images/6c8cfc57-20ed-48ca-b05d-ebc454c317df.jpg
 quando: il primo e il terzo mercoledì di ogni mese, dalle 19.00 in poi
 dove: Fablab Torino
+meta: L’Audio Hacklab è un gruppo di amanti della musica, alcuni esperti, altri sognatori, accomunati dalla passione per l’audio. L’obiettivo del nostro gruppo è quello di sperimentare nuove forme di produzione musicale, passando dall’hacking di strumenti esistenti alla creazione di nuove macchine sonore, grazie al supporto dell’elettronica e delle nuove tecnologie digitali di fabbricazione.
+facebook: https://www.facebook.com/audiohacklab?fref=ts
+sito: http://audiohacklab.org/
 ---
 
 Circuiti e sperimentazione musicale.
