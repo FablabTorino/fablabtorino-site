@@ -1,51 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    {% include head.html %}
-  </head>
+<head>
+	{% include head.html %}
+</head>
 
-  <body>
+<body>
 
-    {% include menu.html %}
+	{% include menu.html %}
 
-    <main>
-      <div class="container">
-        <div class="col-md-6">
-          <div style="text-align: center; margin: 0 auto;">
-          <center>
-          {% if post.copertina contains 'http' %}
-          <img src="{{ page.copertina}}"
-          style="max-height: 100%; max-width: 100%; margin: 0 auto;">
-          {% else %}
-          <img src="{{site.baseurl}}/img/blog/{{page.copertina}}"
-          style="max-height: 100%; max-width: 100%; margin: 0 auto;">
-          {% endif %}
-        </div>
-        </center>
-        </a>
-      </div>
-      <div class="col-md-6">
+	<main>
+		<div class="container">
+			<div class="col-md-12">
+				<div style="text-align: center; margin: 0 auto;">
+					{% if post.copertina contains 'http' %}
+					<img src="{{ page.copertina}}"
+					style="max-height: 100%; max-width: 100%; margin: 0 auto;">
+					{% else %}
+					<img src="{{site.baseurl}}/img/blog/{{page.copertina}}"
+					style="max-height: 100%; max-width: 100%; margin: 0 auto;">
+					{% endif %}
+				</div>
+				<br>
+			</div>
 
+			<div class="col-md-8 col-md-offset-2">
+				{{page.content}}
+			</div>
+		</div>
+	</main>
 
+	{% include footer.html %}
 
-
-      </div>
-          <div class="col-md-8 col-md-offset-2">
-            {{page.content}}
-
-          </div>
-
-
-
-        </div>
-
-    </main>
-
-    {% include footer.html %}
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
-  </body>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+</body>
 </html>
