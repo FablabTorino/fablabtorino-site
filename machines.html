@@ -16,7 +16,7 @@ title: Fablab Torino
       </div>
 
       <div class="col-sm-12" align="center">
-        <h1 style="font-size: 50px;font-weight: 800;color: #d7d7d7">Meglio fatto che perfetto!</h1>
+        <h1 style="font-size: 50px;font-weight: 800;color: #d7d7d7">Le nostre macchine, amale come le amiamo noi!</h1>
       </div>
 
         {% for post in site.categories.tools %}
@@ -31,11 +31,12 @@ title: Fablab Torino
                   </a>
                 <div class="media-body">
                   <!--<h4><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h4>-->
-                  <h4>{{ post.title }}</h4>
-                  <p> Property: {{post.property}}</p>
-                  <p> Year: {{post.Anno}}  </p>
-                  <p> Use: {{post.Uso}}  </p>
-                  <p> Costo: {{ post.Costo }} </p>
+                  <b><h4>{{ post.title }}</h4></b>
+                  <b><p> Property:</b> {{post.property}}</p>
+                  <b><p> Year: {{post.Anno}} </b> </p>
+                  <b><p> Use: {{post.Uso}} </b> </p>
+                  <b><p> Working Area:</b> {{post.Work-Area}}  </p>
+                  <b><p> Costo:</b> {{ post.Costo }} </p>
                   <a class="btn btn-primary"  href="{{site.baseurl}}/laser" role="button">Prenota!</a>
 
                 </div>

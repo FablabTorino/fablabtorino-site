@@ -3,8 +3,8 @@ layout: centrale
 title:  CUTTER PLOTTER GX-24
 date:   2013-06-08
 categories: tools
-copertina: post.png
-Work Area: 584X25000mm
+copertina: gx_24.jpeg
+Work-Area: 584X25000mm
 Utensili: lama
 Materiali: vinile, cartoncino
 Formato:  [dxf, ai, svg]

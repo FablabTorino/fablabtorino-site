@@ -3,8 +3,8 @@ layout: centrale
 title:  FRESA CNC mdx-40
 date:   2013-06-08
 categories: tools
-copertina: post.png
-Work Area: 305X305X105mm
+copertina: mdx40a.jpeg
+Work-Area: 305X305X105mm
 Utensili: multiutensili
 Materiali: ABS, cere, resine, legno, legno chimico, acrilici, PVC e POM
 Formato: .dxf, .stl

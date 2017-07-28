@@ -3,8 +3,8 @@ layout: centrale
 title: ULTIMAKER I
 date:   2013-06-08
 categories: tools
-copertina: post.png
-Work Area: 200X200X200mm
+copertina: ultimaker.png
+Work-Area: 200X200X200mm
 Estrusore: 3mm
 Materiali: ABS, PLA, NYLON, LAYWOOD
 Formato: [stl, obj]
