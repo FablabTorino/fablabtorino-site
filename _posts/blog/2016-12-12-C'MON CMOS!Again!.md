@@ -1,9 +1,9 @@
 ---
 layout: centrale
-title:  C’MON CMOS! Again!
+title:  CMON CMOS! Again!
 date:   2016-12-23
 categories: blog
-copertina: CMOS.jpeg
+copertina: CMOS.jpg
 tag: [audio, AudioHackLab, electronics, elettronica, sonora, sperimentazione, torino, turin, workshop]
 meta: Exploring musical possibilities of cmos chips
 ---

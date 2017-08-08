@@ -3,7 +3,7 @@ layout: centrale
 title:  Merry Xmas
 date:   2016-12-23
 categories: blog
-immagine: natale.png
+copertina: natale.png
 tag: [fablabtorino, fablab, natale, xmas]
 meta: Wishing you a Fab Christmas!
 ---
