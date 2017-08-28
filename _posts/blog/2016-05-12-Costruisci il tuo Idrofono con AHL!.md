@@ -1,7 +1,7 @@
 ---
 layout: centrale
 title:  Costruisci il tuo Idrofono con AHL!
-date:   2017-05-18
+date:   2016-05-18
 categories: blog
 copertina: ws-idrofoniAHL.jpg
 tag: [AHL, AudioHackLab, electronics, idrofono, music, summertechnology, torino, water, workshop]

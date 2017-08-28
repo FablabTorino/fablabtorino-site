@@ -1,7 +1,7 @@
 ---
 layout: centrale
 title:  Torino Mini Maker Faire 2016
-date:   2017-05-18
+date:   2016-05-18
 categories: blog
 copertina: tommf16.png
 tag: [2016, call, callformakers, design, events, IED, info, ITS, maggio, make, makers, may, minimakerfaire, prpojects, sapritalia, Sharefestival, TOmmf16, torino, vaporosamente]
