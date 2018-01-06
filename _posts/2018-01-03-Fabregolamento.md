@@ -15,10 +15,12 @@ In particolari circostanze potranno essere concesse deroghe agli orari sopra cit
 ## 2. Macchine
 
 **2.1** Officine Innesto fornisce agli associati di Fablab Torino la possibilità di usare le macchine [2] di sua proprietà, a patto che questi:
-    * Abbiano seguito i corsi introduttivi erogati gratuitamente e/o a pagamento dall'associazione su base mensile per l'uso delle stesse
-    * Contribuiscano con il numero di crediti necessario all'affitto delle macchine, attraverso Labadmin o contando i crediti “a mano”
 
-**2.2** L’Associazione Fablab Torino ha acquistato negli anni alcune macchine[3]. Anch’esse soggiaciono al sistema dei crediti
+*   Abbiano seguito i corsi introduttivi erogati gratuitamente e/o a pagamento dall'associazione su base mensile per l'uso delle stesse
+
+*   Contribuiscano con il numero di crediti necessario all'affitto delle macchine, attraverso Labadmin o contando i crediti “a mano”
+
+**2.2** L’Associazione Fablab Torino ha acquistato negli anni alcune macchine[3]. Anch’esse soggiaciono al sistema dei crediti (come specificato in 3.1: "I crediti sono emessi e pagati all’Associazione Fablab Torino")
 
 ## 3. Crediti e tessera
 
@@ -30,6 +32,7 @@ In particolari circostanze potranno essere concesse deroghe agli orari sopra cit
 
 **4.1** Una Community é un gruppo di 3 o più persone che si incontra almeno una volta al mese al Fablab.
 Ogni community:
+
 * deve avere un referente che aggiorna il direttivo mensilmente sulle attività della stessa, e sugli appuntamenti, oltre aggiornare il Social  Media Strategist del Fablab per raccontare la community.
 
 * deve avere una pagina [nella sezione communities del sito fablab torino](http://fablabtorino.org/communities/)
