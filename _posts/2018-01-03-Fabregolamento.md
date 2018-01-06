@@ -54,7 +54,7 @@ Ogni Community può organizzare workshop a pagamento all’interno del Fablab 1 
 
 **5.1.2.1** I Corsi a pagamento sono organizzati da iscritti all’associazione e rivolti esclusivamente ad altri utenti.
 
-**5.1.2.3** Per ospitare il corso, l’Associazione Fablab trattiene tra il 40$ ed il 50% del ricavo generato dal percorso formativo a seconda dell'uso degli spazi / macchine / durate ecc...
+**5.1.2.3** Per ospitare il corso, l’Associazione Fablab trattiene tra il 40% ed il 50% del ricavo generato dal percorso formativo a seconda dell'uso degli spazi / macchine / durate ecc...
 
 **5.1.3** Corsi a pagamento organizzati da Officine.
 
@@ -86,3 +86,5 @@ Roland Modela MDX40
 Roland Vynil Cutter GX24
 La stampante 3D Kossel
 Stampanti o pezzi delle stesse donate all’associazione da utenti
+
+Per qualunque domanda in merito al regolamento scrivete a direttivo@fablabtorino.org o fate una Pull Request [qui](https://github.com/FablabTorino/fablabtorino-site/blob/gh-pages/_posts/2018-01-03-Fabregolamento.md)
