@@ -55,16 +55,20 @@ title: Fablab Torino, Associazione
     	<div class="row direttivo">
     		<h1>Consiglio direttivo</h1>
     		{% for post in site.categories.direttivo%}
-        	<div class="col-md-4">
+        	<div class="col-md-6">
 				<div class="media">
 				  <div class="media-left">
 				      <img src="{{ post.copertina }}" width="100px">
+
+              <p>
+
 				  </div>
 				  <div class="media-body">
-				    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
 				    <p>
-				    {{ post.ruolo }}
+            {{ post.title}}  <p>
+            {{ post.ruolo }}
 				    {{ post.excerpt }}
+
 				    <a href="{{ post.sito }}">{{ post.sito }}</a>
 				    </p>
 				  </div>
@@ -74,3 +78,14 @@ title: Fablab Torino, Associazione
 			{% endfor %}
     	</div>
 	</div>
+
+  <div class="container">
+    <div class="row regolamento">
+      	<h1>Regolamento Utenti Fablab Torino</h1>
+        {% for post in site.categories.regolamento%}
+        	<div class="col-md-12">
+{{post.content}}
+          </div>
+          {% endfor %}
+    </div>
+  </div>

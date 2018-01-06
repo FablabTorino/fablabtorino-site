@@ -1,10 +1,8 @@
 ---
-
-
 layout: centrale
 title:  Hackability
 date:   2015-02-02
-categories: [Contest], [Events], [Uncategorized], [Workshop]
+categories: blog
 tag: [zaino], [maker], [autoproduzione],
 ---
 ***Improving your HACKABILITY!***
