@@ -43,7 +43,7 @@ Ogni community ha diritto a 30 crediti/mese per la produzione dei progetti della
 
 Ogni community deve lasciare lo spazio in modo consono alla fine di una serata o di un giorno di lavoro o incontro.
 
-**I membri di una community di Fablab Torino non devono essere necessariamente associati, ma i partecipanti alla community non associati non potranno usare gli strumenti del Fablab perché non coperti da assicurazione. **
+**I membri di una community di Fablab Torino non devono essere necessariamente associati, ma i partecipanti alla community non associati non potranno usare gli strumenti del Fablab perché non coperti da assicurazione.**
 
 Ogni Community può organizzare workshop a pagamento all’interno del Fablab 1 volta ogni tre mesi senza sostenere dei costi di affitto degli spazi
 
