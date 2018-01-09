@@ -3,7 +3,7 @@ layout: centrale
 title:  Nuovo Anno, Nuove Scommesse
 date:   2018-01-09
 categories: blog
-copertina:
+copertina: fabto2018.png
 tag: [fablab, digital fabrication, makers, fablabtorino]
 meta: Buon inizio a tutti! Ecco un piccolo assaggio delle nostre attività di questo nuovo anno
 ---

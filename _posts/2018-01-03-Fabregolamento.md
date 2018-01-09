@@ -3,7 +3,7 @@ layout: centrale
 title:  Fablab regolamento 2018
 date:   2018-01-04
 categories: regolamento
-copertina:
+copertina: fabto2018.png
 tag: [direttivo, regolamento, fablabtorino]
 meta: Il regolamento degli utenti di Fablab Torino
 ---
