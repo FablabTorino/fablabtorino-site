@@ -84,6 +84,7 @@
                 <a href="https://www.facebook.com/fablabtorino"><img src="/img/facebook.png"></a>
                 <a href="https://twitter.com/Fablabtorino"><img src="/img/twitter.png"></a>
                 <a href="https://github.com/FablabTorino"><img src="/img/github.png"></a>
+                <a href="/newsletter"><img src="/img/mail.png"></a>
             </li>
           </ul>
         </div><!--/.nav-collapse -->
@@ -104,8 +105,8 @@
           <h4>INCONTRARSI</h4>
           <p class="lead">L'<b><a href:"/associazione/">Associazione Fablab Torino</a></b> offre a tutti i suoi associati l'opportunità di apprendere processi e tecnologie legate alla prototipazione rapida, IoT e molto altro. <a href="/iscriviti/"><b>Iscriviti!</b></a></p>
         </div>
+        <div class="col-sm-6">
           <h4>SPERIMENTARE</h4>
-          <div class="col-sm-6">
           <p class="lead"> Con il supporto di <b><a href="http://officine.cc">Officine Innesto</a></b> e l'ospitalità di <a href:"www.toolboxoffice.it/en/"><b>Toolbox Coworking</b></a> gli spazi di <b><a href:"https://goo.gl/maps/142bfqKsBcL2">Via Egeo 16</b></a> sono aperti dal <b> martedì al sabato, dalle 16:00 alle 20:00.</b></p>
         </div>
       </div>
@@ -1444,25 +1445,6 @@
     <div class="col-sm-4">
       <!-- Site Sidebar -->
 <aside class="site-sidebar">
-  <h4 class="text-center">Newsletter</h4>
-  <!-- Begin MailChimp Signup Form -->
-  <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-  <div id="mc_embed_signup">
-      <form action="//fablabtorino.us5.list-manage.com/subscribe/post?u=bbd5781f8c72a1885774d98c0&amp;id=2ee26e2206" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-          <div id="mc_embed_signup_scroll">
-          <!--
-        <label for="mce-EMAIL">Iscriviti</label>
-        -->
-        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email" required>
-          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bbd5781f8c72a1885774d98c0_2ee26e2206" tabindex="-1" value=""></div>
-          <div class="clear"><input type="submit" value="Iscriviti" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-          </div>
-      </form>
-
-
-  </div>
-
   <div class="widget">
     <header class="widget-header">
       <h4 class="widget-title">Facebook</h4>
@@ -1493,11 +1475,6 @@
       <a class="twitter-timeline" href="https://twitter.com/Fablabtorino" data-tweet-limit="5">Tweets by @Fablabtorino</a>
       <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
-
-
-
-
-
 </aside>
 
     </div>
@@ -1546,6 +1523,29 @@
     ga('send', 'pageview');
 </script>
 
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+    window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+        "palette": {
+            "popup": {
+                "background": "#eaf7f7",
+                "text": "#5c7291"
+            },
+            "button": {
+                "background": "#0199b1"
+            }
+        },
+        "content": {
+            "message": "Questo sito utilizza i cookie.",
+            "dismiss": "OK",
+            "link": "Leggi di più.",
+            "href": "http://fablabtorino.org/privacy/"
+        }
+    })});
+</script>
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

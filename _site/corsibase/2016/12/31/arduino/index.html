@@ -84,6 +84,7 @@
                 <a href="https://www.facebook.com/fablabtorino"><img src="/img/facebook.png"></a>
                 <a href="https://twitter.com/Fablabtorino"><img src="/img/twitter.png"></a>
                 <a href="https://github.com/FablabTorino"><img src="/img/github.png"></a>
+                <a href="/newsletter"><img src="/img/mail.png"></a>
             </li>
           </ul>
         </div><!--/.nav-collapse -->
@@ -146,6 +147,29 @@
     ga('send', 'pageview');
 </script>
 
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+    window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+        "palette": {
+            "popup": {
+                "background": "#eaf7f7",
+                "text": "#5c7291"
+            },
+            "button": {
+                "background": "#0199b1"
+            }
+        },
+        "content": {
+            "message": "Questo sito utilizza i cookie.",
+            "dismiss": "OK",
+            "link": "Leggi di più.",
+            "href": "http://fablabtorino.org/privacy/"
+        }
+    })});
+</script>
 
 
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
