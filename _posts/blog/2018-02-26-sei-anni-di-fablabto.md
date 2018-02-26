@@ -7,7 +7,7 @@ copertina: bday6_header.png
 tag: [fablab, digital fabrication, makers, fablab torino, officine innesto, happy bday]
 meta: Venerdì 23 febbraio abbiamo festeggiato insieme a Officine Innesto sei anni di...
 ---
-Sei anni di...
+Sei anni di...  
 *persone  
 stampanti  
 schede  
@@ -50,6 +50,8 @@ Ringraziamo chi è passato a salutarci per il tempo di un bicchiere, chi si è f
 ![FabBday](https://github.com/FablabTorino/fablabtorino-site/blob/gh-pages/img/blog/bday3.png?raw=true)
 
 ![FabBday](https://github.com/FablabTorino/fablabtorino-site/blob/gh-pages/img/blog/bday6.png?raw=true)
+
+![FabBday](https://github.com/FablabTorino/fablabtorino-site/blob/gh-pages/img/blog/bday9.png?raw=true)
 
 Se ci conoscete ormai saprete che non ci facciamo mai scappare l'occasione di far festa, perciò non ci resta che dire: **alla prossima!**
 
