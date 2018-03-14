@@ -23,7 +23,7 @@ Questo é quello che risponde il bot quando gli chiedi le *statistiche*.
 
 ![](../img/esptelegramstat/comarebot.png)
 
-Ad inverno 2016-2017 al Fablab avevamo ancora molte stelle di plexiglass giallo, prodotte per un altro progetto di AUG Torino fatto per la Facciata di Paratissima 2016 (Autunno-Inverno 2016). La creazione delle stelle, realizzare con scarti di plexiglass giallo fluo e l'intera operazione Paratissima merita senza dubbio un altro "progetto" di questa sezione.
+Ad inverno 2016-2017 al Fablab avevamo ancora molte stelle di plexiglass giallo, prodotte per un altro progetto di AUG Torino fatto per la facciata di [Paratissima 2016](http://paratissima.it/evento-2016/) (Autunno-Inverno 2016). La creazione delle stelle, realizzare con scarti di plexiglass giallo fluo e l'intera operazione Paratissima merita senza dubbio un altro "progetto" di questa sezione.
 
 ![Una giovane coppia di autoctoni si immortala con un selfie davanti alle costellazioni di Paratissima, Torino Esposizioni, Novembre 2016](../img/esptelegramstat/Paratissima2016.jpg)
 
@@ -37,6 +37,7 @@ Il progetto é documentato nel [repository di Enkel](https://github.com/karonth/
 
 ![](../img/esptelegramstat/stella1.jpg)
 
+Autori: Enkel Bici, Marco Antonino, Faderico Vanzati, Andrea Gambedotti, Davide Gomba
 
 
 <!--more-->
