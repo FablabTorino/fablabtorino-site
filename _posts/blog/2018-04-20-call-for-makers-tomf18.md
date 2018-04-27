@@ -4,7 +4,7 @@ title:  Mini Maker Faire 2018: la Call for Makers è aperta!
 date:   2018-04-20
 categories: blog
 copertina: tomf18.png
-tag: [fablab, digital fabrication, makers, fablab torino, officine innesto, happy bday]
+tag: [mini maker faire, maker faire torino, call for makers, fablab, digital fabrication, makers, fablab torino]
 meta: Quinta edizione per Torino Mini Maker Faire, la grande Festa dell'Innovazione, dall'1 al 3 giugno negli spazi di Fablab Torino e Toolbox Coworking. La Call for Makers per partecipare è aperta!
 ---
 **Makers, a rapporto!**  
