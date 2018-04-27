@@ -1,6 +1,6 @@
 ---
 layout: centrale
-title:  Mini Maker Faire 2018: la Call for Makers è aperta!
+title:  Mini Maker Faire 2018 - la Call for Makers è aperta!
 date:   2018-04-20
 categories: blog
 copertina: tomf18.png
