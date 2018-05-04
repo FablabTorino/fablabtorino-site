@@ -160,9 +160,8 @@ Ecco alcuni dei links più significativi sull’argomento:</p>
 
 <p>Si è scelto di riprodurre il circuito elettronico presentato dalla EME Systems, già testato e documentato, per poter più facilmente collegare le esperienze future ai dati scientifici di provenienza universitaria disponibili in rete relativamente ai sensori resistivi “a matrice granulare” Watermark, (o agli analoghi sensori a blocco di gesso DIY). Lo schema, la PCB e il suo funzionamento con Arduino sono presentati nel post successivo, collegato a questo.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>Blocchi in gesso di qualità commerciale (Soilmoisture.com)
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Blocchi in gesso di qualità commerciale (Soilmoisture.com)
+</code></pre></div></div>
 
 <p>Qui invece ci ostiniamo ad addentrarci più teoricamente in “cosa” questa tecnica ci permette di misurare, e di quale significato abbia.
 Una caratteristica importante di questo circuito eccitatore AC consiste nel fatto di produrre in uscita un segnale digitale in frequenza, leggibile con qualsiasi pin di Arduino e immune ai disturbi e agli “offset” possibili in un circuito analogico. Inoltre è galvanicamente isolato dai propri elettrodi per mezzo di due condensatori ceramici, e sufficientemente generico da essere utilizzabile con diverse tensioni di alimentazione, e con diverse tipologie di sensori terminali fra cui:</p>
@@ -179,9 +178,8 @@ Una caratteristica importante di questo circuito eccitatore AC consiste nel fatt
 
 <p>La disponibilità di acqua per le piante viene rappresentata, in botanica, con la “pressione di suzione” esercitata dalle radici sul suolo, più che con misure percentuali o volumetriche dell’acqua presente. Questo parametro indica la  pressione, negativa rispetto a quella atmosferica, che le radici devono esercitare per estrarre l’acqua dal terreno, vincendo le forze interstiziali che la fanno tenacemente aderire alle particelle costituenti, dalla ghiaia alle più microscopiche particelle lamellari delle argille. Per questo motivo, a parità di contenuto volumetrico di acqua nel suolo, la pressione di suzione varia ampiamente in corrispondenza di composizioni e granulometrie differenti, con il massimo scostamento fra i terreni molto sabbiosi (resta poca acqua già a pressioni relativamente basse) e quelli argillosi (ancora molta acqua a pressioni elevate, ma irraggiungibile dalle radici oltre una certa soglia). Le varie specie vegetali hanno ognuna i propri intervalli, anche molto diversi, di pressioni di suzione nei quali crescere, sopravvivere a stento, o avvizzire. Infatti i vari ecosistemi naturali, presentando diverse caratteristiche fisiche dei suoli, sono caratterizzati da differenti pressioni di suzione (in questo caso si parla in genere di “potenziale matriciale” del terreno).</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>Tensiometri meccanici, da Irrometer.com
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Tensiometri meccanici, da Irrometer.com
+</code></pre></div></div>
 
 <p>Gli unici sensori che producono direttamente una lettura della pressione di suzione sono i tensiometri, che utilizzano le proprietà di un materiale poroso (ceramica) posto in fondo ad un tubo sigillato contenente acqua per ricreare una radice artificiale, in equilibrio osmotico fra la pressione atmosferica e l’assorbimento determinato dal suolo più o meno umido esternamente. I tensiometri sono tradizionalmente meccanici, costituiti dal tubo e da un manometro; oggi anche digitali nel caso utilizzino un sensore elettronico di pressione.
 Il range misurabile va da zero (nessuna pressione necessaria per estrarre acqua, il terreno ne è saturo) fino a circa -80 kiloPascal (oltre, bollicine d’aria attraversano il setto poroso e impediscono di proseguire le misure). Questi ultimi valori sono comunque già nell’intorno delle pressioni di avvizzimento per molte colture, ed i tensiometri si adattano bene a molti casi pratici. Particolari colture “aride” come la vite, o terreni molto argillosi, potrebbero non essere i candidati ideali per la tensiometria, e necessitare delle tecniche FDR o TDR, più complesse dal punto di vista elettronico, e anch’esse da correlare per via sperimentale alla pressione di suzione.</p>
@@ -208,9 +206,8 @@ Esiste una equazione, che possiamo tranquillamente evitarci, che descrive come l
 <p>Il concetto è una estensione delle originali forchette metalliche: le novità consistono, oltre a fissare la dimensione e la distanza fra gli elettrodi, nel non effettuare la misura direttamente nel terreno ma utilizzando una cella contenente un medium di porosità controllabile e uniforme, in equilibrio con l’umidità del terreno circostante, e nel bloccarne per via chimica il contenuto ionico. Resta naturalmente da eseguire la correzione per la temperatura alla quale si trova la cella stessa, ma questo può essere fatto con qualsiasi sensore fra i molti disponibili.
 I sensori a blocco in gesso si prestano benissimo alla costruzione DIY, ma purtroppo si adattano meglio, per la “pasta” molto fine della matrice in scagliola e la sua notevole capacità di trattenere acqua, all’utilizzo in terreni argillosi e alla misura delle pressioni da -50 a -500 kPa, un range troppo alto per molte colture. In terreni normali, le pagine web finora visitate descrivono come i blocchi in gesso presentino un ritardo di giorni per entrare in equilibrio col disseccamento del terreno, risultando inutili per misurare pressioni basse, in terreni da mantenere molto bagnati, o molto sabbiosi.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>Il sensore a matrice granulare Watermark™ 200ss (www.irrometer.com)
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Il sensore a matrice granulare Watermark™ 200ss (www.irrometer.com)
+</code></pre></div></div>
 
 <p>Per estendere verso il basso fino a -10 kPa le pressioni di suzione misurabili sono stati ideati i sensori Watermark, una invenzione commerciale brevettata dalla Irrometer già dagli anni ‘80. Il costo attuale è di 35-50€ per ogni esemplare. Sono costruiti con due piccoli elettrodi concentrici in acciaio inox, posti all’interno di un cilindretto metallico forato, dotato di una membrana permeabile e riempito di sabbia silicea fine; gli elettrodi sono inoltre posizionati molto vicino ad un blocchetto in solfato di calcio. Ecco le ragioni apparenti di questo design:</p>
 

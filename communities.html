@@ -6,7 +6,7 @@ title: Fablab Torino
     <div class="container">
       <div class="row">
         {% for post in site.categories.communities %}
-          <div class="col-sm-3">
+          <div class="col-sm-4">
               <div class="media">
                   <!--<a href="{{site.baseurl}}{{ post.url }}">-->
                     {% if post.copertina contains 'http' %}
@@ -21,7 +21,18 @@ title: Fablab Torino
 
                   <p>
                     <h5><b>{{ post.quando }}</b></h5>
-                    <h5><b><a href="{{site.baseurl}}{{ post.facebook }}">Facebook</a></b></h5>
+                    {% if post.facebook != nil %}
+                    <h5><b><a href="{{site.baseurl}}{{ post.facebook }}">Metti un Like su Facebook</a></b></h5>
+                    {% endif %}
+
+                    {% if post.telegram != nil %}
+                    <h5><b><a href="{{ post.telegram }}">Entra nel Gruppo Telegram!</a></b></h5>
+                    {% endif %}
+                    {% if post.sito != nil %}
+                    <h5><b><a href="{{ post.telegram }}">Sito Ufficiale</a></b></h5>
+                    {% endif %}
+
+
                     <p>
                   {{ post.meta }}
                   </p>
