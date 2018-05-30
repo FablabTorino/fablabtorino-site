@@ -14,7 +14,7 @@ meta: un microfono piezoelettrico pensato per essere pinzato alle superfici
 
 <!-- Intro -->
 
-Ormai sono anni che Audio HackLab sperimenta con i piezo utilizzandoli come microfoni a contatto. Uno dei modi più efficaci di utilizzarli è pinzarli alle superfici, ecco perchè abbiamo unito un disco piezo, una pinza e un jack. 
+Ormai sono anni che Audio HackLab sperimenta con i piezo utilizzandoli come microfoni a contatto. Uno dei modi più efficaci di utilizzarli è pinzandoli alle superfici da microfonare, ecco perchè abbiamo unito un disco piezo, una pinza e un jack. 
 
 Abbiamo documentato il tutto step by step.
 
@@ -39,13 +39,13 @@ Inoltre abbiamo utilizzato i seguenti strumenti:
 
 ### Step 2: Modifica del jack e della pinza
 
-Abbiamo estratto il jack dalla sua guaina e tagliala di una misura adatta al manico della pinza.
+Abbiamo estratto il jack dalla sua guaina e l'abbiamo tagliata della misura adatta per il manico della pinza.
 
 ![](../../img/piezopinza/02-jack.jpg)
 
 ![](../../img/piezopinza/03-taglio-jack.jpg)
 
-Per far spazio alla guaina del jack abbiamo rifilato il bordo della pinza con un taglierino per rimuovere la parte tonda.
+Per far spazio alla guaina del jack abbiamo rifilato il bordo della pinza con un taglierino, rimuovendo la parte tonda.
 
 ![](../../img/piezopinza/04-pinza.jpg)
 
@@ -58,12 +58,12 @@ Per far spazio alla guaina del jack abbiamo rifilato il bordo della pinza con un
 
 ![](../../img/piezopinza/07-incollaggio-jack-2.jpg)
 
-Con la colla epossidica abbiamo cosparso  l’interno del manico della pinza e un lato della guaina per incollarle tra loro: ovviamnete la filettatura va verso l’esterno della pinza.
+Con la colla epossidica abbiamo cosparso l’interno del manico della pinza e un lato della guaina del jack per incollarle tra loro: ovviamente la filettatura va verso l’esterno della pinza.
 
 ### Step 4: Preparazione del jack e del cavo
 
-Dopo aver spellato circa un centimetro di guaina abbiamo intracciato calza con il filo nero e il filo rosso su se stesso.
-Con la punta ben pulita del saldatore li abbiamo stagnati per facilitare il passaggio successivo.   
+Dopo aver spellato circa un centimetro di cavo abbiamo intrecciato la calza con il filo nero e il filo rosso su se stesso.
+Poi li abbiamo stagnati per facilitare il passaggio successivo.   
 
 ![](../../img/piezopinza/08-preparazione-cavo.jpg)
 
@@ -74,13 +74,13 @@ Stessa cosa con i termimali del jack.
 
 ### Step 5: Saldatura del jack con il cavo
 
-Il filamento nero con la calza l'abbiamo saldato alla massa del jack (ground) ed il filamento rosso al polo left ovvero la punta del jack o “tip”. Nel nostro jack il terminale più largo è la massa. Ma questo può variare.
+Il Filo nero (intrecciato con la calza) l'abbiamo saldato alla massa del jack (ground) ed il filamento rosso al terminale corrispondente alla punta del jack o “tip”. Nel nostro jack il terminale più largo è la massa. Ma questo può variare.
 
 ![](../../img/piezopinza/10-saldatura-jack.jpg)
 
 ![](../../img/piezopinza/11-saldatura-jack-2.jpg)
 
-Tips: se lo stai facendo anche tu consulta il datasheet del tuo jack per capire a cosa corrispondono i terminali oppure aiutati con un tester che abbia il controllo di continuità: inserisci un jack maschio e verifica a quale dei due poli della femmina sono collegati la punta del cavo e la base del cavo (gnd). Non hai un tester? Usa una pila ed un led!
+Tips: consulta il datasheet del tuo jack per capire a cosa corrispondono i terminali oppure aiutati con un tester che abbia il controllo di continuità: inserisci un jack maschio e verifica a quale dei due poli della femmina sono collegati la punta del cavo e la base del cavo (gnd). Non hai un tester? Usa una pila ed un led!
 
 ### Step 6: Inserimento del jack
 
@@ -91,11 +91,11 @@ Per inserire il jack abbiamo prima infilato il cavo nella guaina facendolo passa
 
 ### Step 7: Saldatura del piezo
 
-Tagliato il cavo della giusta misura abbiamo prima saldato il terminale rosso alla parte ceramica del piezo (quella centrale bianca) e poi il terminale nero al bordo in ottone, questa volta senza calza metallica altrimenti la schermatura non avrebbe effetto.
+Tagliato il cavo della giusta misura abbiamo prima saldato il terminale rosso alla parte ceramica del piezo (quella centrale bianca) e poi il terminale nero al bordo in metallo, questa volta senza calza metallica altrimenti la schermatura non avrebbe effetto.
 
 ![](../../img/piezopinza/13-saldatura-piezo.jpg)
 
-La parte in ceramica è molto delicata, quindi se vuoi saldarti anche tu un piezo usa temperature il più basse possibili per il sadatore e tenta di metterci meno tempo possibile. E salda abbastanza vicino al bordo per facilitare il prossimo passaggio.
+La parte in ceramica è molto delicata, quindi se vuoi saldare anche tu un piezo usa temperature il più basse possibili per il sadatore e tenta di metterci meno tempo possibile. E salda abbastanza vicino al bordo per facilitare il prossimo passaggio.
 
 
 ### Step 8: Incollaggio del piezo
@@ -110,11 +110,11 @@ Tenendo la pinza aperta abbiamo posizionato il piezo facendo attenzione a manten
 
 ![](../../img/piezopinza/16-pinza-piezo.jpg)
 
-Dopo aver chiuso la pinza facendo attenzione a non spostare il piezo abbiamo utilizzato il residuo di colla per rifinire e consolidare il tutto.
+Dopo aver chiuso la pinza, facendo attenzione a non spostare il piezo, abbiamo utilizzato il residuo di colla per rifinire e consolidare il tutto.
 
 ### Step 9: Collaudo!
 
-A colla asciutta siamo passati al collaudo. Il jack alla pinza si usa come un normale microfono e l'abbiamo collegato ad un ampli: ora siam pronti per ascoltare suoni inediti!
+A colla asciutta siamo passati al collaudo. Il jack alla pinza si usa come un normale microfono e l'abbiamo collegato ad un amplificatore: pronti per ascoltare suoni inediti?
 
 ![](../../img/piezopinza/piezopinza-cover.jpg)
 
