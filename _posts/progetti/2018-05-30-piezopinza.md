@@ -122,7 +122,7 @@ Noi l'abbiamo provato pinzando oggetti metallici vari: reti, molle, corde, ringh
 
 Per qualsiasi dubbio, per farci vedere la tua nuova pinza o farci ascoltare i suoni che hai registrato, scrivici a: info@audiohacklab.org
 
-Autori: _Francesco Pasino_, _Tito Castelli_,_Andrea Reali_
+Autori: _Tito Castelli_, _Francesco Pasino_, _Andrea Reali_
 
 
 <!--more-->
