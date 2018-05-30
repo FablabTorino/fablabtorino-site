@@ -14,7 +14,9 @@ meta: un microfono piezoelettrico pensato per essere pinzato alle superfici
 
 <!-- Intro -->
 
-Ormai sono anni che Audio HackLab sperimenta con i piezo utilizzandoli come microfoni a contatto. Uno di questi modi è pinzarli alle superfici, ecco perchè abbiamo unito un piezo e una pinza con un jack, documentato il tutto e scritto come abbiamo fatto, step by step.
+Ormai sono anni che Audio HackLab sperimenta con i piezo utilizzandoli come microfoni a contatto. Uno dei modi più efficaci di utilizzarli è pinzarli alle superfici, ecco perchè abbiamo unito un disco piezo, una pinza e un jack. 
+
+Abbiamo documentato il tutto step by step.
 
 ### Step 1: Lista dei materiali
 
