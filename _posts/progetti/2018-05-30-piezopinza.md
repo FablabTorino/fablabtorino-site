@@ -14,7 +14,7 @@ meta: un microfono piezoelettrico pensato per essere pinzato alle superfici
 
 <!-- Intro -->
 
-Ormai sono anni che Audio HackLab sperimenta con i dischi piezo utilizzandoli come microfoni a contatto. Uno dei modi più efficaci di utilizzarli è pinzarli alle superfici da microfonare, ecco perchè abbiamo unito un disco piezo, una pinza e un jack. 
+Ormai sono anni che Audio HackLab sperimenta con i dischi piezo utilizzandoli come microfoni a contatto. Uno dei modi più efficaci di utilizzarli è pinzarli alle superfici da microfonare, ecco perchè abbiamo unito un disco piezo, una pinza e un jack.
 
 Abbiamo documentato il tutto step by step.
 
@@ -74,7 +74,7 @@ Abbiamo prestagnato anche i terminali del jack.
 
 ### Step 5: Saldatura del jack con il cavo
 
-Il polo nero (intrecciato con la calza) l'abbiamo saldato alla massa del jack (ground) e il polo rosso al terminale corrispondente alla punta del jack o “tip”. Nel nostro jack il terminale più largo è la massa. Ma questo può variare.
+Il polo nero (intrecciato con la calza) l'abbiamo saldato alla massa del jack (ground) e il polo rosso al terminale corrispondente alla punta del jack o “tip”. Nel nostro caso il terminale più largo è la massa, ma questo può variare in base al modello.
 
 ![](../../img/piezopinza/10-saldatura-jack.jpg)
 
@@ -95,7 +95,7 @@ Tagliato il cavo della giusta misura abbiamo prima saldato il terminale rosso al
 
 ![](../../img/piezopinza/13-saldatura-piezo.jpg)
 
-La parte in ceramica è molto delicata, quindi se vuoi saldare anche tu un piezo usa temperature il più basse possibili per il sadatore e tenta di metterci meno tempo possibile. E salda abbastanza vicino al bordo per facilitare il prossimo passaggio.
+La parte in ceramica è molto delicata, quindi se vuoi saldare anche tu un piezo usa temperature basse per il sadatore e tenta di metterci meno tempo possibile. E salda abbastanza vicino al bordo per facilitare il prossimo passaggio.
 
 
 ### Step 8: Incollaggio del piezo
