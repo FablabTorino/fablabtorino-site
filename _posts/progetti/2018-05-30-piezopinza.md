@@ -8,7 +8,7 @@ categories: progetti
 tags: ahl piezo microphone diy
 sito: http://audiohacklab.org/
 autori: Tito Castelli, Francesco Pasino, Andrea Reali
-copertina: ../img/piezopinza/piezopinza-cove.jpg
+copertina: piezopinza/piezopinza-cover.jpg
 meta: un microfono piezoelettrico pensato per essere pinzato alle superfici
 ---
 
