@@ -43,7 +43,22 @@
   display: inline-block;
   float: none;
   vertical-align: top;
-  font-size: 200%;
+  font-size: 180%;
+}
+
+.navbar .social-icons {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.navbar .social-icons a {
+    padding: 0;
+    display: inline-block;
+}
+
+.navbar .social-icons img {
+    width: 35px;
+    margin: 0;
 }
 
   .dropdown-menu {

@@ -9,5 +9,4 @@ ruolo: vice presidente
 sito: http://millimetrico.it/
 copertina: http://placehold.it/300x300
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<!--more-->
-
+Classe '86, nato a Torino. Laureato in Disegno Industriale al Politecnico di Torino nel 2009, diplomato alla FabAcademy nel 2016. Appassionato di digital fabrication ho fondato lo studio di design "Millimetrico" per lavorare nel campo delle piccole e medie produzioni industriali.

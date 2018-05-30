@@ -1,0 +1,18 @@
+---
+layout: default
+title: regolamento
+---
+
+<div class="container">
+  <div class="row">
+    <h1>Regolamento Associazione Fablab Torino</h1>
+    <h5>Per qualunque domanda in merito al regolamento scrivete a direttivo@fablabtorino.org, <a href="https://github.com/FablabTorino/fablabtorino-site/issues">aprite una issue</a> o fate una Pull Request <a href="https://github.com/FablabTorino/fablabtorino-site/blob/gh-pages/_posts/2018-01-03-Fabregolamento.md">qui</a></h5>
+
+    <div class="col-sm-12">
+
+    {% for post in site.categories.regolamento %}
+      {{post.content}}
+    {% endfor %}
+  </div>
+</div>
+</div>
