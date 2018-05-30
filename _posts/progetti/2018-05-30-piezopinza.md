@@ -80,7 +80,7 @@ Il Filo nero (intrecciato con la calza) l'abbiamo saldato alla massa del jack (g
 
 ![](../../img/piezopinza/11-saldatura-jack-2.jpg)
 
-Tips: consulta il datasheet del tuo jack per capire a cosa corrispondono i terminali oppure aiutati con un tester che abbia il controllo di continuità: inserisci un jack maschio e verifica a quale dei due poli della femmina sono collegati la punta del cavo e la base del cavo (gnd). Non hai un tester? Usa una pila ed un led!
+Consulta il datasheet del tuo jack per capire a cosa corrispondono i terminali oppure aiutati con un tester che abbia il controllo di continuità: inserisci un jack maschio e verifica a quale dei due poli della femmina sono collegati la punta del cavo e la base del cavo (gnd). Non hai un tester? Usa una pila ed un led!
 
 ### Step 6: Inserimento del jack
 
