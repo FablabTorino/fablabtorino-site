@@ -62,7 +62,7 @@ Con la colla epossidica abbiamo cosparso l’interno del manico della pinza e un
 
 ### Step 4: Preparazione del jack e del cavo
 
-Dopo aver spellato circa un centimetro di cavo abbiamo intrecciato la calza con il filo nero e il filo rosso su se stesso.
+Dopo aver spellato circa un centimetro di cavo abbiamo intrecciato la calza con il polo nero e il polo rosso su se stesso.
 Poi li abbiamo stagnati per facilitare il passaggio successivo.   
 
 ![](../../img/piezopinza/08-preparazione-cavo.jpg)
@@ -74,7 +74,7 @@ Abbiamo prestagnato anche i terminali del jack.
 
 ### Step 5: Saldatura del jack con il cavo
 
-Il Filo nero (intrecciato con la calza) l'abbiamo saldato alla massa del jack (ground) e il filamento rosso al terminale corrispondente alla punta del jack o “tip”. Nel nostro jack il terminale più largo è la massa. Ma questo può variare.
+Il polo nero (intrecciato con la calza) l'abbiamo saldato alla massa del jack (ground) e il polo rosso al terminale corrispondente alla punta del jack o “tip”. Nel nostro jack il terminale più largo è la massa. Ma questo può variare.
 
 ![](../../img/piezopinza/10-saldatura-jack.jpg)
 
