@@ -67,14 +67,14 @@ Poi li abbiamo stagnati per facilitare il passaggio successivo.
 
 ![](../../img/piezopinza/08-preparazione-cavo.jpg)
 
-Stessa cosa con i termimali del jack.
+Abbiamo prestagnato anche i terminali del jack.
 
 ![](../../img/piezopinza/09-preparazione-jack.jpg)
 
 
 ### Step 5: Saldatura del jack con il cavo
 
-Il Filo nero (intrecciato con la calza) l'abbiamo saldato alla massa del jack (ground) ed il filamento rosso al terminale corrispondente alla punta del jack o “tip”. Nel nostro jack il terminale più largo è la massa. Ma questo può variare.
+Il Filo nero (intrecciato con la calza) l'abbiamo saldato alla massa del jack (ground) e il filamento rosso al terminale corrispondente alla punta del jack o “tip”. Nel nostro jack il terminale più largo è la massa. Ma questo può variare.
 
 ![](../../img/piezopinza/10-saldatura-jack.jpg)
 
@@ -122,7 +122,7 @@ Noi l'abbiamo provato pinzando oggetti metallici vari: reti, molle, corde, ringh
 
 Per qualsiasi dubbio, per farci vedere la tua nuova pinza o farci ascoltare i suoni che hai registrato, scrivici a: info@audiohacklab.org
 
-Autori: _Andrea Reali_, _Francesco Pasino_, _Tito Castelli_
+Autori: _Francesco Pasino_, _Tito Castelli_,_Andrea Reali_
 
 
 <!--more-->
