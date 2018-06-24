@@ -12,11 +12,15 @@
 		<div class="container">
 			<div class="col-md-12">
 				<div style="text-align: center; margin: 0 auto;">
-					{% if post.copertina contains 'http' %}
+					{% if page.copertina contains 'http'
+						%}
 					<img src="{{page.copertina}}"
 					style="max-height: 100%; max-width: 100%; margin: 0 auto;">
-					{% else %}
+					{% else if page.categories == 'progetti' %}
+					<img src="{{site.baseurl}}/img/{{page.copertina}}"
+					style="max-height: 100%; max-width: 100%; margin: 0 auto;">
 
+					{% else %}
 					<img src="{{site.baseurl}}/img/blog/{{page.copertina}}"
 					style="max-height: 100%; max-width: 100%; margin: 0 auto;">
 
