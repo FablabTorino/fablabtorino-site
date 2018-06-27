@@ -12,13 +12,19 @@
 		<div class="container">
 			<div class="col-md-12">
 				<div style="text-align: center; margin: 0 auto;">
-					{% if page.copertina contains 'http'
+					{% if post.copertina contains "https"
 						%}
 					<img src="{{page.copertina}}"
 					style="max-height: 100%; max-width: 100%; margin: 0 auto;">
-					{% else if page.categories == 'progetti' %}
+
+					{% elsif post.categories == "progetti" %}
 					<img src="{{site.baseurl}}/img/{{page.copertina}}"
 					style="max-height: 100%; max-width: 100%; margin: 0 auto;">
+
+					{% elsif post.categories == "blog" %}
+					<img src="{{site.baseurl}}/img/blog/{{ post.copertina }}"
+					style="max-height: 100%; max-width: 100%; margin: 0 auto;">
+
 
 					{% else %}
 					<img src="{{site.baseurl}}/img/blog/{{page.copertina}}"
