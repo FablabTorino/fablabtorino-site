@@ -5,7 +5,7 @@ title: Fablab Torino
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-8">
+    <div class="col-sm-12">
 
       <div class="row">
         <div class="col-sm-6">
@@ -34,7 +34,7 @@ title: Fablab Torino
       <!-- per ogni contenuti va creato un row qui che si apre e chiude -->
       {% for post in site.categories.blog %}
 
-      <div class="col-md-12">
+      <div class="col-md-12" align="center">
           <div class="media">
               <a href="{{site.baseurl}}{{ post.url }}">
                 {% if post.copertina contains 'http' %}
@@ -74,10 +74,6 @@ title: Fablab Torino
 
 
       <!-- si chiude qui! -->
-
-    </div>
-    <div class="col-sm-4">
-      {% include sidebar-projects.html %}
     </div>
   </div>
 
