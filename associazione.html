@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fablab Torino, Associazione
+title: Fablab Torino | Associazione
 ---
 
     <div class="container">
@@ -55,29 +55,24 @@ title: Fablab Torino, Associazione
     <hr>
 
     <div class="container">
-    	<div class="row direttivo">
-    		<h1>Consiglio direttivo</h1>
-    		{% for post in site.categories.direttivo%}
-        	<div class="col-md-6">
-				<div class="media">
-				  <div class="media-left">
-				      <img src="{{ post.copertina }}" width="100px">
-
-              <p>
-
-				  </div>
-				  <div class="media-body">
-				    <p>
-            {{ post.title}}  <p>
-            {{ post.ruolo }}
-				    {{ post.excerpt }}
-
-				    <a href="{{ post.sito }}">{{ post.sito }}</a>
-				    </p>
-				  </div>
-				</div>
-				<hr>
-			</div>
-			{% endfor %}
-    	</div>
-	</div>
+      <div class="row direttivo">
+        <h1>Consiglio direttivo</h1>
+        {% for post in site.categories.direttivo %}
+        <div class="col-md-6">
+          <div class="media">
+            <div class="media-left">
+              <img src="{{ post.copertina }}" width="100px">
+            </div>
+            <div class="media-body">
+              <p><b><a href="{{ post.permalink }}">
+                {{ post.title }} </a></b></p>
+              <p><i> {{ post.ruolo }} </i></p>
+                <!-- {{ post.excerpt }} -->
+                <!-- <a href="{{ post.sito }}">{{ post.sito }}</a> -->
+            </div>
+          </div>
+          <hr>
+        </div>
+        {% endfor %}
+      </div>
+    </div>

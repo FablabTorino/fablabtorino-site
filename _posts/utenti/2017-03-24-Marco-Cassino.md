@@ -1,12 +1,12 @@
 ---
 layout: centrale
 title:  "Marco Cassino"
-date:   2017-03-23
+date:   2017-03-24
 published: true
 permalink: ../marcocassino
 categories: utenti direttivo
-ruolo: vice presidente
+ruolo: presidente
 sito: http://millimetrico.it/
-copertina: http://placehold.it/300x300
+copertina: person-placeholder-300x300.png
 ---
-Classe '86, nato a Torino. Laureato in Disegno Industriale al Politecnico di Torino nel 2009, diplomato alla FabAcademy nel 2016. Appassionato di digital fabrication ho fondato lo studio di design "Millimetrico" per lavorare nel campo delle piccole e medie produzioni industriali.
+Classe '86, nato a Torino. Laureato in Disegno Industriale al Politecnico di Torino nel 2009, diplomato alla FabAcademy nel 2016. Appassionato di digital fabrication ha fondato lo studio di design "Millimetrico" per lavorare nel campo delle piccole e medie produzioni industriali.

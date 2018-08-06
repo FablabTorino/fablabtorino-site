@@ -1,11 +1,11 @@
 ---
 layout: centrale
-title:  "Fabrizio Alessio"
+title:  "Giancarlo Bacchio"
 date:   2018-06-15
 published: true
-permalink: ../fabrizioalessio
+permalink: ../giancarlobacchio
 categories: utenti direttivo
-ruolo: consigliere
+ruolo: tesoriere
 sito:
 copertina: person-placeholder-300x300.png
 ---

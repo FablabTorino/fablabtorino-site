@@ -5,7 +5,7 @@ date:   2017-03-22
 published: true
 permalink: ../gianfrancocaputo
 categories: utenti direttivo
-ruolo: segretario
-sito: 
-copertina: http://placehold.it/300x300
+ruolo: vice presidente
+sito:
+copertina: person-placeholder-300x300.png
 ---

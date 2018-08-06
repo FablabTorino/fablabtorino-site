@@ -1,9 +1,9 @@
 ---
 layout: centrale
-title:  "Fabrizio Alessio"
+title:  "Francesco Pasino"
 date:   2018-06-15
 published: true
-permalink: ../fabrizioalessio
+permalink: ../francescopasino
 categories: utenti direttivo
 ruolo: consigliere
 sito:

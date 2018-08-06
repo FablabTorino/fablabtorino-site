@@ -1,11 +1,11 @@
 ---
 layout: centrale
-title:  "Fabrizio Alessio"
+title:  "Giacomo Leonzi"
 date:   2018-06-15
 published: true
-permalink: ../fabrizioalessio
+permalink: ../giacomoleonzi
 categories: utenti direttivo
-ruolo: consigliere
+ruolo: segretario
 sito:
 copertina: person-placeholder-300x300.png
 ---
