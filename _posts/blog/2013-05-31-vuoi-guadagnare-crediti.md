@@ -2,7 +2,8 @@
 layout: centrale
 title:  Vuoi guadagnare dei crediti?
 date:   2013-05-31
-categories: no
+categories: blog
+published: false
 copertina: scope-735x150.jpg
 tag: crediti
 ---

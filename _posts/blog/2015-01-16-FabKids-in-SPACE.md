@@ -4,7 +4,7 @@ title:  Fab Kids in SPACE
 date:   2015-01-16
 categories:   Uncategorized
 immagine: inspace_banner-02-02.png
-tag: [fablabtorino], [fabforkids]
+tag: [fablabtorino, fabforkids]
 ---
 ***Fab Kids float in space***
 

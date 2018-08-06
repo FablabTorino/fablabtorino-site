@@ -2,7 +2,8 @@
 layout: centrale
 title:  Parametric Design with Grasshopper
 date:   2014-11-11
-categories:  no
+categories: blog
+published: false
 tag: [workshop , 3d , 3dprinting , Rhino]
 ---
 

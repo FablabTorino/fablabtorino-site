@@ -1,15 +1,15 @@
 ---
 layout: centrale
-title: Tagli laser e space explorer: un altro mese bomba in Fablab for Kids!
+title: "Tagli laser e space explorer: un altro mese bomba in Fablab for Kids!"
 date:   2015-02-04 09:04:00 -0600
-categories: Fablab for Kids, Lasercut, Uncategorized, Workshop
+categories: [Fablab for Kids, Lasercut, Uncategorized, Workshop]
 immagine: inspace_banner-02-021.png
 tag: [activities, gioco, kids, libri, munari, planets, space, stars]
 ---
 <img src="/img/blog/inspace_banner-02-021.png" width="500" height="333">
 **TAGLI LASER E SPACE EXPLORER**
 
-**_UN'ALTRO MESE BOMBA AL FABLAB FOR KIDS!_**    
+**_UN'ALTRO MESE BOMBA AL FABLAB FOR KIDS!_**
 
 _Incerti su come impegnare i sabato e le domeniche fredde e uggiose di febbraio? Ma ci pensiamo noi, basta chiedere!_
 

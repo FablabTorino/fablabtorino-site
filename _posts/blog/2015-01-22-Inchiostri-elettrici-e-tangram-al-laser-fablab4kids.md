@@ -1,11 +1,9 @@
 ---
-
 layout: centrale
 title:  Inchiostri elettrici e tangram al laser un mese come tanti in Fablab for Kids!
 date:   2015-01-22
-categories: [DIY], [Events], [Workshop],
-tag: [fablabtorino], [fabforkids]
-
+categories: [DIY, Events, Workshop]
+tag: [fablabtorino, fabforkids]
 ---
 
 S***Inchiostri elettrici e tangram al laser!***

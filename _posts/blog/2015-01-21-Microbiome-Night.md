@@ -2,11 +2,9 @@
 layout: centrale
 title:  Microbiome Night
 date:   2015-01-21
-categories: DIY
-Events
-Workshop
+categories: [DIY, Events, Workshop]
 immagine: Microbiome_banner.jpg
-tag: [fablabtorino], [fabforkids]
+tag: [fablabtorino, fabforkids]
 ---
 ***MICROBIOME NIGHT***
 

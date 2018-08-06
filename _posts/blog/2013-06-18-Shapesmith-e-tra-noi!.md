@@ -2,7 +2,8 @@
 layout: centrale
 title:  C'è chi ha la scimmia per la modellazione!
 date:   2013-06-18
-categories: no
+categories: blog
+published: false
 immagine: moving-scaling-cursors.png
 tag: [3d , modellazione , shapesmith]
 ---

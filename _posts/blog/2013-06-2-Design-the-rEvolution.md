@@ -2,7 +2,8 @@
 layout: centrale
 title:  C'è chi ha la scimmia per la modellazione!
 date:   2013-06-02
-categories: no
+categories: blog
+published: false
 immagine: logo.jpg
 tag: [3d , digital fabrication, synthetic biology, nano technology, neuroscienze, robotica, biocomputing]
 ---

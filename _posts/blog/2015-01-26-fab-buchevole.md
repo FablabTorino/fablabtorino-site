@@ -4,7 +4,7 @@ title:  Fab buchevole
 date:   2015-01-26
 categories: [uncategorized]
 immagine: img/fabbuchevole_banner-03.png
-tag: [fablabtorino], [fabforkids]
+tag: [fablabtorino, fabforkids]
 ---
 ***Fab Buchevole***
 

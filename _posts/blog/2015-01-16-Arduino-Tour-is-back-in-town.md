@@ -1,12 +1,10 @@
 ---
-
 layout: centrale
 title:  Arduino Tour is back in town
 date:   2015-01-16
-categories:   [Arduino], [AUG Torino], [Events], [Workshop]
+categories:   [Arduino, AUG Torino, Events, Workshop]
 immagine: img/fabbuchevole_banner-03.png
-tag: [AUG], [arduino], [ARDUINO_TOUR_TO]
-
+tag: [AUG, arduino, ARDUINO_TOUR_TO]
 ---
 ***ARDUINO TOUR IS BACK IN TOWN***
 

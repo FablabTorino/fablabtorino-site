@@ -2,7 +2,8 @@
 layout: centrale
 title:  OhMyPenny!
 date:   2014-11-21
-categories: no
+categories: blog
+published: false
 tag: [ohmyLong , skate , workshop]
 ---
 ***OhMyPenny!***

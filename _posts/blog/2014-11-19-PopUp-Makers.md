@@ -2,7 +2,8 @@
 layout: centrale
 title:  PopUp Makers / Novembre
 date:   2014-11-19
-categories:  no
+categories: blog
+published: false
 tag: [Makers , Arduino]
 ---
 ***PopUp Makers / Novembre***

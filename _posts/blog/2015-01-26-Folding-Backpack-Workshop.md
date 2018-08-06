@@ -2,13 +2,9 @@
 layout: centrale
 title:  Folding Backpack Workshop
 date:   2015-01-26
-categories:  DIY
-Events
-Lasercut
-Uncategorized
-Workshop
+categories:  [DIY, Events, Lasercut, Uncategorized, Workshop]
 immagine: zaino_2022jan.jpg
-tag: [zaino], [maker], [autoproduzione],
+tag: [zaino, maker, autoproduzione]
 ---
 ***Big success for the
 FOLDING BACKPACK WORKSHOP!***

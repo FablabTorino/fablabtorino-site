@@ -3,7 +3,7 @@ layout: centrale
 title:  Hackability
 date:   2015-02-02
 categories: blog
-tag: [zaino], [maker], [autoproduzione],
+tag: [zaino, maker, autoproduzione]
 ---
 ***Improving your HACKABILITY!***
 
