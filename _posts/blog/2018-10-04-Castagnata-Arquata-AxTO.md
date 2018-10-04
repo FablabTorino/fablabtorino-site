@@ -1,6 +1,6 @@
 ---
 layout: centrale
-title:  Una panchina multifunzionale in via Arquata: Castagnata di presentazione
+title:  Una panchina multifunzionale in via Arquata - Castagnata di presentazione
 date:   2018-10-04
 categories: blog
 copertina: panca_21.png
