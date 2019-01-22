@@ -5,7 +5,7 @@ title: Fablab Torino, Contatti e FAQ
 
 ## Cos’è il Fablab Torino?
 
-Il Fablab Torino è un’associazione culturale, un laboratorio di fabbricazione digitale e un makerspace. Un sacco di roba, eh? Per scoprire che cos’è e come funziona vieni a trovarci durante i nostri Open Day, ogni martedì dalle 16.00 alle 20.00.
+Il Fablab Torino è un’associazione culturale, un laboratorio di fabbricazione digitale e un makerspace. Un sacco di roba, eh? Per scoprire che cos’è e come funziona vieni a trovarci durante i nostri Open Day, ogni mercoledì dalle 19.00 alle 20.00.
 Vuoi maggiori informazioni? Scrivici a info@fablabtorino.org
 
 ## Quando posso venire a visitare il Fablab?
@@ -13,7 +13,7 @@ Vuoi maggiori informazioni? Scrivici a info@fablabtorino.org
 Il nostro laboratorio è un’associazione culturale, quindi segue un orario per i suoi associati e uno per gli esterni che non hanno la tessera.
 
 * Per i tesserati all’associazione, il Fablab è aperto dal martedì al venerdì dalle 16:00 alle 20:00.
-* Per i NON tesserati, il Fablab è visitabile durante gli Open Day, che si tengono tutti i martedì dalle 16:00 alle 20:00.
+* Per i NON tesserati, il Fablab è visitabile durante gli Open Day, che si tengono tutti i mercoledì dalle 19:00 alle 20:00.
 
 ## Voglio realizzare un mio progetto con gli strumenti del Fablab, come lo posso fare?
 
