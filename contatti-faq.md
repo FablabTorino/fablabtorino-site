@@ -13,7 +13,7 @@ Vuoi maggiori informazioni? Scrivici a info@fablabtorino.org
 Il nostro laboratorio è un’associazione culturale, quindi segue un orario per i suoi associati e uno per gli esterni che non hanno la tessera.
 
 * Per i tesserati all’associazione, il Fablab è aperto dal martedì al venerdì dalle 16:00 alle 20:00.
-* Per i NON tesserati, il Fablab è visitabile durante gli Open Day, che si tengono tutti i martedì dalle 16:00 alle 20:00.
+* Per i NON tesserati, il Fablab è visitabile durante gli Open Day, che si tengono tutti i mercoledi dalle 19:00 in poi (per una migliore gestione delle visite ti invitiamo a scriverci a [info@fablabtorino.org](mailto:info@fablabtorino.org).
 
 ## Voglio realizzare un mio progetto con gli strumenti del Fablab, come lo posso fare?
 
