@@ -3,7 +3,7 @@ layout: centrale
 title:  "Robot Side"
 date:   2016-12-31 10:00:00 -0600
 categories: communities
-permalink: 3dusergroup
+permalink: robotside
 referente: Mauro D'Ambrosi, maurodambrosi82@hotmail.it
 copertina: communities/RobotSide.jpg
 quando: tutti i Venerdì sera dalle 19:30
