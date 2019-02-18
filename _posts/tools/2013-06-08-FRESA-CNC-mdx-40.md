@@ -9,10 +9,10 @@ Utensili: multiutensili
 Materiali: ABS, cere, resine, legno, legno chimico, acrilici, PVC e POM
 Formato: .dxf, .stl
 Uso: su prenotazione
-Costo: 15crediti/h I°/5cr/h dalla II°
+Costo: 15crediti/h I°, 5cr/h dalla II°
 Tutorial: link
 Anno: 2016
-property: Officine Innesto
+property: Associazione Fablab Torino
 Link: https://www.rolanddga.com/products/3d/mdx-40a-benchtop-cnc-mill
 ---
 
