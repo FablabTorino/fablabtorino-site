@@ -3,7 +3,7 @@ layout: centrale
 title:  "OSArc Manifesto"
 published: true
 categories: progetti
-permalink: ../#osarc-manifesto
+permalink: ../osarc-manifesto
 tags: [technology, plotter]
 sito: pietroleoni.com/#osarc-manifesto
 autori: Pietro Leoni
